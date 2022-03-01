@@ -1,0 +1,764 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short treatise, agaynst the prophanation of the Lord's day, especiallie by salmond-fishing thereon, in tyme of divine service. / By William Guild, D.D. minister in Aberdene, and chaplane to his Majestie..</title>
+            <author>Guild, William, 1586-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00106</idno>
+            <idno type="STC">STC 12491</idno>
+            <idno type="STC">ESTC S92781</idno>
+            <idno type="EEBO-CITATION">54532357</idno>
+            <idno type="OCLC">ocm 54532357</idno>
+            <idno type="VID">180789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2135:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short treatise, agaynst the prophanation of the Lord's day, especiallie by salmond-fishing thereon, in tyme of divine service. / By William Guild, D.D. minister in Aberdene, and chaplane to his Majestie..</title>
+                  <author>Guild, William, 1586-1657.</author>
+                  <author>Johnstoun, Arthur, 1587-1641. Epitaphium piscatoris.</author>
+               </titleStmt>
+               <extent>[14], 60, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Edward Raban,,</publisher>
+                  <pubPlace>Printed in Aberdene, :</pubPlace>
+                  <date>1637..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initials.</note>
+                  <note>First 7 leaves contain t.p., Aberdeen coat of arms (McK. 394), dedicatory letter, and table of contents. Last leaf contains 'Epitaphium piscatoris', signed Arth. Ionstonus, M.R.</note>
+                  <note>Signatures: first 7 leaves unmarked, A-D⁸ (last leaf blank?).</note>
+                  <note>Imperfect: stained, with loss of print from t.p.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+                  <note>Bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180789:1"/>
+            <pb facs="tcp:180789:1"/>
+            <pb facs="tcp:180789:2"/>
+            <pb facs="tcp:180789:2"/>
+            <p>A SHORT TREATISE, Agaynſt the propha<g ref="char:EOLhyphen"/>nation of the LORD'S DAY, Eſpeciallie By Salmond Fiſhing thereon, <hi>In tyme of Divine Service<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <q>
+               <bibl>MATH. xxij. 21.</bibl>
+               <p>Giue vnto GOD that which is God's.</p>
+               <bibl>EZEK. xxiij. 38.</bibl>
+               <p>Moreover, this they haue done vnto mee, — they haue prophaned my Sabbath.</p>
+            </q>
+            <p>By WILLIAM GUILD, D. D. Mi<g ref="char:EOLhyphen"/>niſter in ABERDENE, and Chap<g ref="char:EOLhyphen"/>lane to his Majeſtie.</p>
+            <p>
+               <hi>Printed in</hi> Aberdene, <hi>by Ed<g ref="char:EOLhyphen"/>ward Raban,</hi> 1637.</p>
+            <pb facs="tcp:180789:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:180789:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:180789:4" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <q>BON ACCORD</q>
+                  <head>Inſignia <g ref="char:V">Ʋ</g>rbis abredoniae</head>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:180789:4"/>
+            <head>TO THE RIGHT WORSHIPFVLL, RELIGIOUS, AND <hi>TRVE PATTERNE OF VERTVE,</hi> S<hi rend="sup">r</hi> THOMAS BVRNET <hi>OF LEYES KNIGHT,</hi> &amp;c. And to his moſte Religious and <hi>worthie Ladie, Dame</hi> IEANE MONCRIEF, <hi>Grace and</hi> Bleſſings here, Glorie <hi>and Beatitude here<g ref="char:EOLhyphen"/>after.</hi>
+            </head>
+            <opener>
+               <salute>RIGHT WORSHIPFVLL,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is not wi<g ref="char:EOLhyphen"/>thout cauſe, that the obſerva<g ref="char:EOLhyphen"/>tion of the <hi>LORDS</hi>
+               <pb facs="tcp:180789:5"/>
+Day is called, <hi>THE KEY OF RE<g ref="char:EOLhyphen"/>LIGION;</hi> which being neglected, the ſame ſhould quicklie decaye, and quyte periſh out of the hearts of men: and, ſo, they ſhould turne <hi>Athiestes,</hi> and become without GOD in the World. For pre<g ref="char:EOLhyphen"/>venting whereof, the LORD praefixed a ſpeciall <hi>Memento</hi> to the fourth Precept of His Morall Law, <hi>enjoyning</hi> men, to <hi>Remember to keepe holie the Sabbath Day;</hi> and <hi>ſubjoyning</hi> a moſte pithie reaſon thereof. But (alace!) men now vnder the Goſpell, are come to ſuch a degree of impietie with vs, that, tho they haue a more for<g ref="char:EOLhyphen"/>cible reaſon to obſerue the <hi>LORRS DAY,</hi> whereon our Saviour roſe, and brought vs from Death, to Lyfe agayne; and which from the beginning hitherto the Chriſtian Church alſo, everie where, hath ſo religiouſlie obſerved. Yet theſe,
+<pb facs="tcp:180789:5"/>
+not through oblivion, nor igno<g ref="char:EOLhyphen"/>rance, but agaynſt knowne light, and wilfullie, as alſo both peart<g ref="char:EOLhyphen"/>lie, and publicklie, to the high of<g ref="char:EOLhyphen"/>fence of GOD, and ſcandall of His People, prophane that Holie Daye, conſecrated to His Wor<g ref="char:EOLhyphen"/>ſhip, by <hi>Salmond-Fiſhing thereon, in tyme of Divine Service;</hi> where<g ref="char:EOLhyphen"/>by GOD is depryved of His Ho<g ref="char:EOLhyphen"/>nour, the Church of Reverence, the Common-wealth of Order, the Bodie of Reſt, the Soule of Edification, the Life of Direction, GOD'S Word of Audience, and His Law of Obedience: counting onelie their <hi>Gayne</hi> to bee <hi>Godlineſſe,</hi> and not (as the Apoſtle ſayeth) <hi>Godlineſſe</hi> to bee great <hi>Gayne:</hi>
+               <note place="margin">1. <hi>Tim.</hi> 6.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and eſteeming the Word of GOD in the mouthes of His Servantes, (be<g ref="char:EOLhyphen"/>cauſe it croſſeth their commodi<g ref="char:EOLhyphen"/>tie, as it did <hi>Alexander</hi> the Cop<g ref="char:EOLhyphen"/>per-ſmith's) even as <hi>Pharao</hi> cal<g ref="char:EOLhyphen"/>led
+<pb facs="tcp:180789:6"/>
+it in the mouth of MOSES, for the lyke cauſe,<note place="margin">
+                  <hi>Exod.</hi> 5.9.</note> 
+               <hi>Vayne wordes</hi> onlie, not to be regarded; tho one day they know they ſhall bee jud<g ref="char:EOLhyphen"/>ged thereby.</p>
+            <p>Yea, ſome are come to that hight of impietie, <hi>hating to be re<g ref="char:EOLhyphen"/>formed,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 50.27.</note> that they dare call in que<g ref="char:EOLhyphen"/>ſtion the verie Inſtitution, and lawfulneſſe, of the obſervation thereof, which <hi>Augustine</hi> decla<g ref="char:EOLhyphen"/>reth,<note place="margin">Aug. Epist. <hi>118.</hi> ad Ian.</note> 
+               <hi>Inſolentiſsmae eſſe inſaniae; or,</hi> an expreſſion, &amp; a fit, of a moſt in<g ref="char:EOLhyphen"/>ſolent, &amp; audacious madneſſe; not worthie of anie modeſt anſwere.</p>
+            <p>For due informing and reclay<g ref="char:EOLhyphen"/>ming of whom, (if they bee not lyke <hi>Babell,</hi> which would not bee cured) I haue taken theſe paynes, in all loue, and care of their ſalva<g ref="char:EOLhyphen"/>tion; and ſhall count it my grea<g ref="char:EOLhyphen"/>teſt joye, and moſt happie beſto<g ref="char:EOLhyphen"/>wed travells, if heereby (beſides my preaching, and daylie prayers
+<pb facs="tcp:180789:6"/>
+for them) I may fiſh, by the Nette of the Goſpell, but one Soule amongſt them, to bee obedient to the <hi>LORD;</hi> and lyke <hi>Noah,</hi> in his age, by their practiſe, to op<g ref="char:EOLhyphen"/>poſe the ſpeat of wicked and com<g ref="char:EOLhyphen"/>mon Example. But, if not, wee that are their Paſtoures, muſt not bee quyte diſcowraged, becauſe wee ſee neyther our paynes nor preaching to prevayle; ſeeing that <hi>Noah,</hi> in cxx years, both by prea<g ref="char:EOLhyphen"/>ching and building the Arke lyke<g ref="char:EOLhyphen"/>wyſe, converted not one ſoule of the whole world to fayth and re<g ref="char:EOLhyphen"/>pentance; and that the Lord's Pro<g ref="char:EOLhyphen"/>phets haue beene commanded to preach, and yet it hath beene told them before-hand,<note place="margin">
+                  <hi>Ezek.</hi> 3.4.</note> that they ſhould not bee heard; yea, more<g ref="char:EOLhyphen"/>over,<note place="margin">
+                  <hi>Iſai</hi> 6.10.</note> that their doctrine ſhould harden the heartes of the hearers. But this wee ſhall doe;<note place="margin">1. <hi>Sam.</hi> 15.35.</note> As <hi>Samuell</hi> mourned for <hi>Saull,</hi> whom he could
+<pb facs="tcp:180789:7"/>
+not mende, and as the Apoſtle be<g ref="char:EOLhyphen"/>wayled thoſe that ſinned,<note place="margin">2. <hi>Cor.</hi> 12.21.</note> and had not repented; So our ſoules ſhall not ceaſſe to mourne for them in ſecret; and, in the meane whyle, our worke ſhall be with our God: And whether our labours bee vn<g ref="char:EOLhyphen"/>to lyfe or death to our hearers, to convert or convince them, we ſhall bee vnto God, a ſweete ſavour in Chriſt,<note place="margin">2. <hi>Cor.</hi> 2.15.</note> both in them that are ſa<g ref="char:EOLhyphen"/>ved, and in them that periſh.</p>
+            <p>Theſe paynes, then, (Sir) I haue dedicated to Your Worſhip, for ſundrie reſpectes, and diverſe obliegementes mooving mee; but eſpeciallie, in regarde of that reli<g ref="char:EOLhyphen"/>gious diſpoſition, and zealous af<g ref="char:EOLhyphen"/>fection, Yee haue to the Trueth, and hatered agaynſt ſuch enor<g ref="char:EOLhyphen"/>mous abuſes as this, or anie lyke wilfull &amp; groſſe violation of Gods holy Co<g ref="char:cmbAbbrStroke">̄</g>mandements: with which diſpoſition, both evidently &amp; emi<g ref="char:EOLhyphen"/>nently
+<pb facs="tcp:180789:7"/>
+is conjoyned a patterne in Your perſon of an aſſiduous &amp; ver<g ref="char:EOLhyphen"/>tuous inclination: that ſo for Reli<g ref="char:EOLhyphen"/>gion &amp; Policie, your W. is famous both in Church &amp; Commonwealth; even as it was wiſhed of <hi>Boaz,</hi> that <hi>hee might doe worthilie in Ephratha, and bee famous in Bethlehem.</hi> With the conſtancie of which worthie &amp; imitable parts,<note place="margin">
+                  <hi>Ruth</hi> 4.1.</note> I ſhall alſo wiſh the continuance of all true happineſſe, both with your ſelf, your moſt re<g ref="char:EOLhyphen"/>ligious Ladie, honorable Houſe, &amp; all Your hopefull Poſteritie; as one who ſhall ever approue himſelfe</p>
+            <closer>
+               <signed>Your Worſhips, in all due and addebted affection, <hi>WILLIAM GUILD.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:180789:8"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <label>Chapter I.</label>
+               <item>Of the occaſion of this ſhort Trea<g ref="char:EOLhyphen"/>tiſe. Pag. <hi>1</hi>
+               </item>
+               <label>Chapter II.</label>
+               <item>Of the ſtate of the Question: and first, That the Lord's publicke Wor<g ref="char:EOLhyphen"/>ſhip is <hi>Morall;</hi> oblieging all men: and, That a certayne daye hath beene ob<g ref="char:EOLhyphen"/>ſerved <hi>holie</hi> for the ſame in all ages. Pag. <hi>5</hi>
+               </item>
+               <label>Chapter III.</label>
+               <item>The manie reaſons, first, taken from Christ's honouring the Lord's day; Why all true Christians haue ever, and ſtill ſhould, honour the ſame. Pag. <hi>13</hi>
+               </item>
+               <label>Chapter IV.</label>
+               <item>The Apostles their obſervation of
+<pb facs="tcp:180789:8"/>
+the Lord's daye in lyke manner: and the lyke practiſe of all Chriſtian Chur<g ref="char:EOLhyphen"/>ches, both in their tyme, and after. Pag. <hi>19</hi>
+               </item>
+               <label>Chapter V.</label>
+               <item>The holie ſpeaches, and religious ex<g ref="char:EOLhyphen"/>hortations, of the ancient Fathers, both <hi>Greeke</hi> and <hi>Latine;</hi> or, of the Easterne &amp; Weſterne Church, for the due keeping holie of the LORD'S Day. Pag. <hi>25</hi>
+               </item>
+               <label>CHAP. VI.</label>
+               <item>The Decrees of Councels, as alſo of Godlie Emperours and Princes, for the due obſervation of the Lord's Daye. Pag. <hi>28</hi>
+               </item>
+               <label>CHAP. VII.</label>
+               <item>The Ancient and Moderne Conſtitu<g ref="char:EOLhyphen"/>tions, both of our owne Church and Kingdome of <hi>Scotland,</hi> for due obſervation of the LORD'S DAY Pag. <hi>33</hi>
+               </item>
+               <label>
+                  <pb facs="tcp:180789:9"/>
+                  <hi>CHAP. VIII.</hi>
+               </label>
+               <item>The Ancient and Moderne Conſtitu<g ref="char:EOLhyphen"/>tions, both of the Church and Kingdome of <hi>ENGLAND,</hi> for due obſervation of the LORD'S DAY. Pag. <hi>36</hi>
+               </item>
+               <label>Chapter IX.</label>
+               <item>Howe the Lord's day is to bee obſer<g ref="char:EOLhyphen"/>ved, and what workes are permiſ<g ref="char:EOLhyphen"/>ſible, or not permiſsible, thereon: And ſpeciallie, That the <hi>Sal<g ref="char:EOLhyphen"/>mond-fiſhing</hi> thereon is no wayes permiſsible, or lawfull. Pag. <hi>39</hi>
+               </item>
+               <label>CHAP. X.</label>
+               <item>What are the manie and great evills, which the prophaning of the LORD'S DAY, by <hi>Salmond-Fiſhing,</hi> produceth. Pag. <hi>49</hi>
+               </item>
+               <label>CHAP. XI.</label>
+               <item>The <hi>CONCLUSION,</hi> by way of a faythfull Warning from the head
+<pb facs="tcp:180789:9"/>
+of the Watch-Towre, for exone<g ref="char:EOLhyphen"/>ration at leaſt of our owne Soules, whom GOD hath ſet over them, who ſo prophane the LORD'S DAYE. Pag. <hi>57</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180789:10"/>
+            <pb facs="tcp:180789:10"/>
+            <head>
+               <hi>Of the prophanation</hi> of the Lord's Day; <hi>Eſpeciallie,</hi> By Salmond-Fishing thereon.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of the occaſion of this ſhort Treatiſe.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE LORD (as Hee te<g ref="char:EOLhyphen"/>ſtifieth by His Prophet) hath ſett His Ser<g ref="char:EOLhyphen"/>vants, as <hi>watch<g ref="char:EOLhyphen"/>men vpon the head of the watch-tower,</hi>
+                  <note place="margin">Ezek. 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7.</note> 
+                  <hi>to heare the word at His Mouth, and to warne His People
+<pb n="2" facs="tcp:180789:11"/>
+from Him.</hi> And if they ſpeake not, to warne the wicked from his way, that wicked man ſhall die in his iniquitie, but his blood will the Lord requyre at their hands. Therefore (ſaid the Lord to IE<g ref="char:EOLhyphen"/>REMIE) <hi>Speake vnto this people all that I command thee,</hi>
+                  <note place="margin">Ier. 15.10.</note> 
+                  <hi>and bee not diſ<g ref="char:EOLhyphen"/>mayde at their faces, leſt I confound thee before them.</hi> And to ISAI, <hi>Crye aloude,</hi>
+                  <note place="margin">Iſai 58.1.</note> 
+                  <hi>and ſpare not; lift vp thy voyce as a trumpet, and ſhew my people their tranſgreſsion, and the houſe of</hi> Iacob <hi>their ſinnes.</hi>
+               </p>
+               <p>The like neceſſitie of obedience and ſtraytneſſe of injunction lying in lyke-manner vpon vs, who are the LORD'S Rememberancers in the Citie of ABER<g ref="char:EOLunhyphen"/>DENE, moveth vs (as we are comman<g ref="char:EOLunhyphen"/>ded alſo) <hi>Not to holde our peace,</hi>
+                  <note place="margin">Iſai 62.6.</note> 
+                  <hi>not keepe ſilence:</hi> but as wee would avoyd that <hi>Woe</hi> which is denounced agaynſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them who doethe worke of the LORD negligentlie, and eſchew that dreadful puniſhment of vnfaithfull ſervants, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we would not lykwyſe betray the ſoules of men by our fraudful ſilence, and draw the guilt of their blood vpon our owne heads; knowing therefore the <hi>weight of
+<pb n="3" facs="tcp:180789:11"/>
+our Charge,</hi> the <hi>terror of the LORD,</hi> and <hi>ſtraytneſſe of our account;</hi> and ſeeing men wilfullie agaynſt cleare light, walke in a bolde way of wicked tranſ<g ref="char:EOLhyphen"/>greſſion, and an open <hi>prophanation of the LORD'S day, by Salmond-fiſhing thereon,</hi> in the time of divine Service; we are inforced, and by the conſcience of our Calling,<note place="margin">Ier. 20.8.</note> conſtrained to crye out with IEREMIE, vpon <hi>violence &amp; ſpoyle;</hi> even the violent ſpoyling of the Lord of the Day of His ſolemne &amp; publicke wor<g ref="char:EOLhyphen"/>ſhip, altho the word of the Lord ſhould bee vnto vs, as it was to him, a <hi>reproach, and in deriſion daylie.</hi>
+               </p>
+               <p>For true it is, that tho wee haue pre<g ref="char:EOLhyphen"/>vailed with ſome who haue promiſed to forbeare this prophanation, yet of others hitherto wee haue had the lyke cauſe to crye our with ISAI, <hi>Who hath believed our report? and to whom is the arme of the LORD revealed?</hi> And to re<g ref="char:EOLhyphen"/>grate that ſundrie come vnto vs,<note place="margin">Ezek. 33.31.</note> (as in EZEKIELS time they did to him) and <hi>ſit before vs, as GODS people, and heare our words, but they will not doe them, for their heart goeth after their
+<pb n="4" facs="tcp:180789:12"/>
+covetouſneſſe.</hi>
+                  <note place="margin">Ier. 44.16</note> It is true lykewyſe, that others are ſo bolde, as to ſay plainlie in this with thoſe rebellious IEWES which dwelt in AEGYPT and PATHROS, as they anſwered IEREMIE, ſaying, <hi>As for the word that thou haſt ſpoken to vs in the Name of the LORD, wee will not hearken to thee:</hi> and lyke the people in AMOS time,<note place="margin">Amos 5.10.</note> that <hi>they hate him that rebuketh in the gate, and they abhorre him that ſpeaketh vprightlie.</hi> Yet this ſhalbe our comfort, that tho <hi>wee plow vpon the rocke, and the bellowes bee burnt, the lead conſumed in the fire, and the founder haue melted in vaine; notwithſtanding,</hi>
+                  <note place="margin">Ezek. 2.5.</note> 
+                  <hi>our worke ſhall bee with our GOD.</hi> And they whether they will heare, or whether they will for<g ref="char:EOLhyphen"/>beare, yet ſhall they know, that there hath beene Prophets amongſt them; and wee ſhall haue this for our joy, that wee may ſay with the Apoſtle, and take men and Angels to record,<note place="margin">Act. 24.26.</note> that <hi>we are free from the blood of all men.</hi>
+               </p>
+               <p>And which thing the more amply alſo to witnes to the world, and for evidenc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to future poſteritie, as by voyce we hau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:180789:12"/>
+frequentlie cryed out agaynſt the hay<g ref="char:EOLhyphen"/>nouſneſſe of this bold iniquitie; ſo now by writ I haue intended to cleare the equitie of our Challenge, detect the greatneſſe of this ſinne, fore-warne faith<g ref="char:EOLhyphen"/>fullie of the danger, enforce obedience on the conſcience, vſe all meanes of reclay<g ref="char:EOLhyphen"/>ming, and approue our ſelues to the con<g ref="char:EOLhyphen"/>ſcience of all men, but eſpeciallie to our owne, and to Him who is greater than the conſcience, that wee may haue joy in the day of our account.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the ſtate of the Question; and firſt, That the LORDS publick worſhip is <hi>Morall,</hi> oblieging all men; and, That a certayne day hath beene ob<g ref="char:EOLhyphen"/>ſerved holy for the ſame in all Ages.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, then, for ſtating the Queſtion aright, it is to bee obſerved, that wee vrge not vpon anie ſuch a ſtrict obſervation of the Lords Day, as the rigid tenets of ſome would exact, nor as
+<pb n="6" facs="tcp:180789:13"/>
+was the obſervation formerlie of the Iewiſh Sabboth,<note place="margin">Exod. 35.3.16.27.</note> whereon they might not kindle fire throughout their Genera<g ref="char:EOLhyphen"/>tions,<note place="margin">Luke 23.56.</note> neyther bake nor ſeethe, nor burie or imbalme their dead: but onelie thus farre wee affirme, (according to the ge<g ref="char:EOLhyphen"/>nerall equitie of Gods Commandement, Apoſtolicall obſervetion, practiſe of the Church in all Ages, and the vnanimious conſent of all judicious Divines) that all ſervile labour, intended meerlie for Gayne, whereby Gods People are hin<g ref="char:EOLhyphen"/>dered, and with-drawne from His pub<g ref="char:EOLhyphen"/>licke worſhip, &amp; ſuch religious exerciſes, which ought to bee performed by them vpon the Lords Day, for the ſpirituall edification and ſalvation of their ſoules, is altogether vnlawfull, and damnable. And whoſoever inforceth &amp; imployeth the irſervantes ſo to tranſgreſſe, they de<g ref="char:EOLhyphen"/>ſpyſe God, contemne His Church, rob Chriſt of His honour, poore ſoules of in<g ref="char:EOLhyphen"/>ſtruction, the word of attendance, the Miniſterie of reverence, giue ſcandall and offence, and make themſelues guiltie of the greateſt blood-guiltineſſe that can bee, which is the blood of ſoules; ſo that as the Apoſtle ſpeaketh of ſome, that <hi>their glorie, was their ſhame:</hi> ſo I
+<pb n="7" facs="tcp:180789:13"/>
+may ſay juſtlie of theſe, that <hi>their Gayne, is their detriment.</hi>
+               </p>
+               <p>Now, to proue the trueth of our for<g ref="char:EOLhyphen"/>mer Aſſertion, and to remoue all weake ſhifts that might bee pretended for help<g ref="char:EOLhyphen"/>leſſe evaſion, theſe enſuing Poſitions are to bee conſidered.</p>
+               <p>Firſt, by the conſent of all, this is a maxime in Religion, that <hi>the publick worſhip of GOD, is a thing</hi> Morall, <hi>&amp; eternae veritatis,</hi> perpetuallie hitherto obſerved, and to bee obſerved to the worlds ende: ſo that whoſoever would denye this, were to proclayme himſelfe a prophane Atheſt, vnworthie of the name or ſocietie of Chriſtians; as alſo an over-thrower of the publick Miniſtrie &amp; orders of the Church, which for the edi<g ref="char:EOLhyphen"/>fication of His bodie Chriſt hath ap<g ref="char:EOLhyphen"/>poynted, and an enemie to that ſolemne homage, which is the Lords due in the aſſemblie of His Saincts.</p>
+               <p>Next, this beeing granted, it will fol<g ref="char:EOLhyphen"/>low, then, that a certaine day, or ſet time, ſhould be ordinarilie obſerved, whereon the exerciſes of the ſaid publick worſhip ought to bee performed; and therefore the verie law of nature requyreth the ſanctification of times no leſſe than of
+<pb n="8" facs="tcp:180789:14"/>
+perſons and places. For which cauſe, as of the reſt, ſo alſo of times the Lord hath ever exacted ſome part, by way of per<g ref="char:EOLhyphen"/>petuall homage: therefore alſo ſayeth AQUINAS,<note place="margin">Aquinas in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cunda ſe<g ref="char:EOLhyphen"/>u<g ref="char:cmbAbbrStroke">̄</g>dae quast. <hi>21.</hi> art. <hi>4.</hi>
+                  </note> that <hi>as there is a naturall inclination in man to depute a time for everie neceſſarie thing, as meat and ſleepe, or the lyke which concerneth his bodie; even ſo, ſeeing hee hath a ſoule alſo, naturall reaſon would dyte, that hee ſhould alſo depute a time for the refreſhment of his ſoule.</hi> And there<g ref="char:EOLhyphen"/>fore the deputing a time for attending divyne Worſhip, and holie exerciſes on<g ref="char:EOLhyphen"/>lie, falleth vnder the Precept of the Mo<g ref="char:EOLhyphen"/>rall Law.</p>
+               <p>In lyke manner, (ſayth AUREOLUS) <hi>it is the law of nature,</hi>
+                  <note place="margin">Aureolus, in <hi>3.</hi> Dist. <hi>37.</hi> artic.</note> 
+                  <hi>that ſometyme wee ſhould rest from ſervile worke, that we may ſerue GOD; and this is evident heereby,</hi> becauſe <hi>I am as much ob<g ref="char:EOLhyphen"/>liedged to GOD, as to my ſelfe: but the law of nature and reaſon alſo dytes, that I ſhould take a certaine time to procure my owne welfare, and thoſe things that are neceſſarie for mee. Therefore I ought alſo take a time to attend GODS
+<pb n="9" facs="tcp:180789:14"/>
+Worſhip, and to remember His bene<g ref="char:EOLhyphen"/>fites which Hee hath beſtowed on mee.</hi>
+               </p>
+               <p>Now, as for the proportion of this tyme which ſhould bee ſo beſtowed, none (I thinke) can doubt, but that proportion is fitteſt that can bee imagi<g ref="char:EOLhyphen"/>ned, which the Lord made choyſe of for His owne people; to wit, the ſeaventh day. And nature informed by God, can not but acknowledge His goodneſſe and wiſedome in this His choyſe and ap<g ref="char:EOLhyphen"/>poyntment, that Hee hath ſo tempered it, that neyther the long ſpace betweene, ſhould ſuffer vs to forget our duetie to Him, nor the too quicke returne thereof ſhould hinder vs in our provyding the neceſſities of Nature for our ſelues. Therefore ſayeth learned HOOKER, <hi>that wee are bound to to account the ſanctification of one day in the ſeaven,</hi>
+                  <note place="margin">Hooker. Ec<g ref="char:EOLhyphen"/>cleſ. Pol. P. <hi>379.</hi>
+                  </note> 
+                  <hi>a duetie which GODS immutable law doeth exact for ever.</hi> And this wee ſee to haue beene practiſed, before the Law, vnder the Law, and vnder the Goſpell.</p>
+               <p>
+                  <hi>Firſt,</hi> before the Law was give<g ref="char:cmbAbbrStroke">̄</g> on <hi>Sinai,</hi> and before the ſeaventh day was indicted by way of the fourth Precept of the firſt Table, as the Lords Sabbath, in memorie
+<pb n="10" facs="tcp:180789:15"/>
+of the Creation, wee find that the ſame day was obſerved, as a day of holie reſt vnto the LORD (EXOD. 16.22.26.) while the people were in the Wilderneſſe of SIN, which is between ELIM and SI<g ref="char:EOLhyphen"/>NAI; &amp; ſo conſequently before they came to SINAI, where the Law was given, in that, they did gather vpon the ſixt day, (by the LORDS command) twyſe as much MANNA, as they did vpon anie former day; that ſo they might reſt vpon the ſeaventh, as a Sabbtah conſecrate to the LORD, who alſo did reſt Himſelfe from the worke of Creation that day; &amp; ſo from the beginning did ſanctifie and halow it. Therfore ſayth Saynct CHRY<g ref="char:EOLhyphen"/>SOSTOME,<note place="margin">
+                     <hi>Chryſoſt.</hi> in Gen. 2.3.</note> vpon theſe wordes in GENE<g ref="char:EOLhyphen"/>SIS, <hi>GOD bleſſed the ſeaventh day, and halowed it. From the beginning God intimateth vnto vs this doctrine,</hi> (ſayeth hee) <hi>inſtructing vs to ſeparate and lay aſyde one whole day to Him<g ref="char:EOLhyphen"/>ſelfe, in the compaſſe of everie weeke, and to deſtinate it for ſpirituall and holie exerciſes.</hi>
+               </p>
+               <p>
+                  <hi>Secondlie,</hi> vnder the Law, that the ſea<g ref="char:EOLhyphen"/>venth day after the creation was appoin<g ref="char:EOLhyphen"/>ted to bee the Lord's Sabbath, none can
+<pb n="11" facs="tcp:180789:15"/>
+deny,<note place="margin">Deut. 5.14</note> who knoweth the ten Precepts of the morall Law,<note place="margin">Levit. 23.3</note> which the LORD or<g ref="char:EOLhyphen"/>dayned ſtraytlie to bee obſerved by all perſons: <hi>Firſt,</hi>
+                  <note place="margin">Exod. 34.21.</note> by a <hi>ceſſation</hi> from all ſer<g ref="char:EOLhyphen"/>vile work whatſoever, tho in Seed-time and Harveſt; to obviate thereby (as ſeemeth) a pretended neceſſitie at ſome<g ref="char:EOLhyphen"/>tymes, importing great prejudice, or dan<g ref="char:EOLhyphen"/>ger, if they laboured not vpon the Sab<g ref="char:EOLhyphen"/>bath, as in Harveſt eſpeciallie, becauſe of an irrecoverable ſeaſon. <hi>Secondlie,</hi> the Lord appoynted it to bee halowed,<note n="*" place="margin">
+                     <hi>Aug.</hi> de temp. ſerm. <hi>251.</hi> Athanaſ. in Math. <hi>11.27.</hi>
+                  </note> by a <hi>religious application</hi> of themſelues to the works of His publicke worſhip: and for the more peremptorie obſervation whereof, Hee prefixed a Note of ſpeciall rememberance, (beyonde all the reſt) fore-ſeeing as it were, that ſome irreli<g ref="char:EOLhyphen"/>gious perſons would eyther more care<g ref="char:EOLhyphen"/>leſlie neglect, or audaciouſlie breake this Commandement.</p>
+               <p>Neyther can any but moſt clearlie ſee, a no leſſe neceſſarie duetie, incumbent vpon Chriſtians, to obſerue a ſeaventh day holie to the Lord, than was on the IEWES of olde, of whom the LORD re<g ref="char:EOLhyphen"/>quyreth, 1. No leſſe proportion of ſer<g ref="char:EOLhyphen"/>vice and thankfulneſſe, for a farre greater benefite, than that of the Creation: 2. In
+<pb n="12" facs="tcp:180789:16"/>
+reſpect of the Chriſtian Church, which requyreth no leſſe proportion of order and comelineſſe: 3. In regard of our ſoules, which neede no leſſe proportion of tyme, and meanes to bee inſtructed and ſanctified: and 4, In reſpect of the bodies of ſervants and cattell, (which beeing inferiour in ſtrength to thoſe of former ages) neede no leſſe proportion of reſt and refreſhment.</p>
+               <p>Therefore, vnder the Goſpell, from the verie Apoſtles dayes hitherto (accor<g ref="char:EOLhyphen"/>ding to VINCENTIUS rule of CATHO<g ref="char:EOLhyphen"/>LICISME, <hi>ſemper, vbi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> &amp; ab omnibus</hi>) the whole Chriſtian Church everie where, and ever hitherto, hath keeped, as a Ca<g ref="char:EOLhyphen"/>tholicke obſervation, a ſeaventh day ho<g ref="char:EOLhyphen"/>lie to the LORD; to wit, the day of the Lords Reſurrection, which was the firſt day of the IEWISH weeke: that as the Sabbath vnder the Law, was a note of difference betweene the IEWES and the GENTILES; ſo the Lords day vnder the Goſpell, ſhould bee a note of difference betweene Chriſtians, who belieue the Reſurrection of Chriſt, and incredulou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> IEWES, who denye the ſame. And tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this obſervation of the Lords day, fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the exerciſe of His publick worſhip, was
+<pb n="13" facs="tcp:180789:16"/>
+Apoſtolicall, and Chriſtianly Catholicke, without controverſie, in all Ages, none (I hope) is ſo bold as once to denye. So that now (as AUGUSTINE ſayeth) <hi>Hoc quin ita faciendum ſit diſputare,</hi>
+                  <note place="margin">Aug. Epist. <hi>118.</hi> ad Ia<g ref="char:EOLhyphen"/>nnar.</note> 
+                  <hi>inſolentiſsimae inſaniae eſt:</hi> that is, <hi>To diſpute now whe<g ref="char:EOLhyphen"/>ther this were to bee obſerved or no, it were nothing elſe but moſt inſolent madneſſe.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> The manie reaſon's, firſt, taken from Chriſts honouring the LORDS day, why all true Christians haue ever, and ſtill ſhould honour the ſame.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE <hi>firſt</hi> and mayne reaſon, then, why our morall duetie, com<g ref="char:EOLhyphen"/>manded in the fourth Precept, doeth now chiefelie appertayne to the LORDS Day, and conſequentlie why all Chriſtians haue ever, and ſtill ſhould, obſerue the
+<pb n="14" facs="tcp:180789:17"/>
+Lords Day, is, Becauſe our Saviour, the Lord Ieſus, roſe from death to lyfe that day; and ſo, victoriouſlie triumphed over His and our enemies: by vertue of which His Reſurrection, wee are raiſed ſpiri<g ref="char:EOLhyphen"/>tuallie from ſinne, to grace heere, and ſhall be raiſed corporally from the graue, to glorie heereafter. Therefore ſaid IG<g ref="char:EOLhyphen"/>NATIUS, Biſhop of ANTIOCH, who li<g ref="char:EOLhyphen"/>ved in Sainct IOHNS time,<note place="margin">Ignat. ad Magneſian. epiſt. <hi>3.</hi>
+                  </note> 
+                  <hi>Let every one who loveth CHRIST, keepe holie the LORD'S Day, renowned by His Re<g ref="char:EOLhyphen"/>ſurrection, which is the Queene of dayes wherein Death was over-come, and Lyfe ſprang vp in Christ againe.</hi> And agayne (ſayth AUGUSTINE) <hi>Domini reſuſcitatio promiſit nobis aeternum diem,</hi>
+                  <note place="margin">Aug. de verb. Apoſto<g ref="char:EOLhyphen"/>li, ſerm. <hi>15.</hi>
+                  </note> 
+                  <hi>&amp; conſecravit nobis Dominicum diem:</hi> that is, <hi>The LORDS ryſing from dead, hath promiſed vnto vs an eternall Day of rest, and hath conſecrated vnto vs the LORDS Day.</hi>
+                  <note place="margin">Chryſoſt. in Pſal. <hi>118.</hi> &amp; ſerm. <hi>5.</hi> de reſurr. <hi>See alſo</hi> Aug. l. <hi>22.</hi> de civit. Dei cap. <hi>30.</hi>
+                  </note> 
+                  <hi>Qui propterea quod Dominus in eo ad vitam a morte redierit, Do<g ref="char:EOLhyphen"/>minicus appellatur</hi> (ſayth CHRYSOSTOME:) that is, <hi>Which for this cauſe is called the LORDS Day, becauſe on it the LORD Himſelfe returned from death
+<pb n="15" facs="tcp:180789:17"/>
+to lyfe againe.</hi> So that as the Lords owne reſting the ſeaventh day which the IEWES kept,<note place="margin">Athanaſius in Matth. <hi>11.27.</hi>
+                  </note> recommended their Sab<g ref="char:EOLhyphen"/>bath to bee kept by them; ſo the Lords owne ryſing from death this ſeaventh day which Chriſtians obſerue,<note place="margin">Iuſtin. Mar<g ref="char:EOLhyphen"/>tyr. Apol. <hi>2.</hi>
+                  </note> recom<g ref="char:EOLhyphen"/>mends juſtlie the Lords Day to bee kept by vs:<note place="margin">Sozom. l. <hi>1.</hi> cap. <hi>8.</hi>
+                  </note> and whoſoever wilfullie propha<g ref="char:EOLhyphen"/>neth the ſame, (as our Salmond-fiſhers doe in tyme of Divyne Service) prefer<g ref="char:EOLhyphen"/>ring <hi>Gaine</hi> to <hi>Godlineſſe,</hi> they ſhow that they neyther loue Chriſt (as <hi>Ignatius</hi> ſayeth) nor celebrate, as they ought, thankfullie the memorie of His bleſſed Reſurrection.</p>
+               <p>
+                  <hi>Next,</hi> as it is renowned by the Lords Reſurrection, ſo it is honoured by His Name, which as an honourable ſtampe and impreſſion, the Spirit of GOD and Pen of the beloved Apoſtle hath fixed and ſet thereon,<note place="margin">Revel. 1.10.</note> calling it <hi>THE LORDS DAY.</hi> So that as the <hi>Iewiſh</hi> Sabbath vn<g ref="char:EOLhyphen"/>der the Law, and which was conſecrated to the Lords worſhip then, was called by the Prophet, <hi>HIS HOLIE DAY.</hi>
+                  <note place="margin">Iſai 18.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> So juſt<g ref="char:EOLhyphen"/>lie may the Lords Day vnder the Goſ<g ref="char:EOLhyphen"/>pell, which is now conſecrated to His worſhip, bee called, <hi>CHRISTS HOLIE DAY.</hi> Wherefore ſayeth AUGUSTINE, <hi>Qui
+<pb n="16" facs="tcp:180789:18"/>
+vocatur Dominicus,</hi>
+                  <note place="margin">Aug. Serm. <hi>15.</hi> de ver<g ref="char:EOLhyphen"/>bis Apostoli.</note> 
+                  <hi>ipſe videtur propriè ad Do<g ref="char:EOLhyphen"/>minum pertinere, quia in eo Dominus reſurre<g ref="char:EOLhyphen"/>xit:</hi> that is, <hi>That day which is called the LORD'S DAY, appeareth properlie to belong to the LORD Himſelfe, be<g ref="char:EOLhyphen"/>cauſe on it the LORD did aryſe.</hi> And agayne ſayeth PROCOPIVS,<note place="margin">Procopius in Geneſ. <hi>1.</hi>
+                  </note> 
+                  <hi>Ab ipſo DO<g ref="char:EOLhyphen"/>MINO cognomen deſumpturus erat, ut dice<g ref="char:EOLhyphen"/>retur dies Dominicus, tanquam ſoli DOMI<g ref="char:EOLhyphen"/>NO conſecratus:</hi> that is, <hi>It was to take the denomination from the LORD Himſelfe, to bee called the LORD'S Day, becauſe it is conſecrated onlie vn<g ref="char:EOLhyphen"/>to the LORD.</hi> And therefore, whoſo<g ref="char:EOLhyphen"/>ever prophaneth the ſame, neglecting His worſhip thereon, and onelie giue themſelues to their filthie Lucre, where<g ref="char:EOLhyphen"/>as they ſhould giue vnto GOD, that which is GOD'S, on the contrarie they are ſacrilegious robbers of GOD, (which is the worſt ſort of Athieſt.) And if they ſay with the <hi>Iewes</hi> in MALACHIE, <hi>Whereof haue wee robbed Him?</hi>
+                  <note place="margin">Malac. 3.8</note> He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will tell them in the day of their dread<g ref="char:EOLhyphen"/>full account, <hi>Of My Day, dedicated to My holie Worſhip, and of the ſolemne honour and worſhip due to Mee there<g ref="char:EOLhyphen"/>on;</hi>
+                  <pb n="17" facs="tcp:180789:18"/>
+and ſo of that which is moſt ſacred <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the higheſt degree, as all things are, which are ſo ſtamped with His Name and Superſcription.</p>
+               <p>
+                  <hi>Thirdlie;</hi> Hee honoured that Day alſo by His firſt apparition thereon, (after His victorious Reſurrection) vnto His Diſciples, being aſſembled together;<note place="margin">
+                     <hi>Iohn</hi> 20.19.</note> at what tyme alſo He bleſſed them, &amp; by breathing vpon them, Hee gaue them the holie Ghoſt. And in lyke manner, vpon the ſame day, (being the Pente<g ref="char:EOLhyphen"/>coſt) after His glorious Aſcention into Heaven,<note place="margin">
+                     <hi>Act.</hi> 8.4.</note> when His Apoſtles were all aſſembled together in one place, Hee ſent downe the holie Ghoſt, in ſhape of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eloven fyrie Tongues, plentifullie vpon them, whereby they were enabled mi<g ref="char:EOLhyphen"/>raculouſlie to ſpeake to everie nation, according to their language: And vp<g ref="char:EOLhyphen"/>on which day alſo they firſt began the publicke exerciſe of their holie Mini<g ref="char:EOLhyphen"/>ſtrie, which was crowned that daye with the converſion of three thouſand ſoules. Who-ſo-ever, then, will pro<g ref="char:EOLhyphen"/>phane wilfullie that day, and ſpend the ſame onelie and whollie in perſuing their vnlawfull gayne thereon, it is evi<g ref="char:EOLhyphen"/>dent,
+<pb n="18" facs="tcp:180789:19"/>
+that they are not led by that Spi<g ref="char:EOLhyphen"/>rit, which came downe on the Apo<g ref="char:EOLhyphen"/>ſtles that day.<note place="margin">Rom. 8.14</note> And whoſoever are not led by the Spirit of GOD, they are not the ſonnes of GOD, as teſtifieth the Apoſtle.</p>
+               <p>
+                  <hi>Fourthlie;</hi> Our Saviour graced that day of His Reſurrection, in lyke man<g ref="char:EOLhyphen"/>ner, by revealing thereon vnto His be<g ref="char:EOLhyphen"/>loved Diſciple ſaynct IOHN, thoſe high and heavenlie Myſteries, which make vp the propheticall part of the New Teſtament, and are contayned in that tranſcendant Booke of the APOCA<g ref="char:EOLhyphen"/>LYPSE, and Clauſule of the whole Scripture.</p>
+               <p>From all which ſeverall ſortes of our Saviour's honouring His owne Daye, therefore did the ancient Fathers giue it ſuch honourable Titles,<note place="margin">Ignat. ad Magneſ. Chryſost. Hom. <hi>5.</hi> de Reſurr. Gregor. Na<g ref="char:EOLhyphen"/>zianz. ora<g ref="char:EOLhyphen"/>tio <hi>43.</hi> August. de Temp. ſerm. <hi>251.</hi>
+                  </note> as <hi>Ignatius</hi> calleth it the <hi>Queene of Dayes;</hi> Saynct <hi>Chryſostome,</hi> the <hi>Royall Daye; Gregorie Nazianzene, Higher than the highest;</hi> and, <hi>with admiration, won<g ref="char:EOLhyphen"/>derfull amongst dayes,</hi> (even as the Virgine MARIE was bleſſed amongſt Women) And <hi>Auguſtine</hi> applyeth
+<pb n="19" facs="tcp:180789:19"/>
+theſe wordes of the Pſalme vnto it, <hi>This is the Day which the LORD hath made:</hi>
+                  <note place="margin">Pſal. 118.24.</note> 
+                  <hi>let vs bee glad and re<g ref="char:EOLhyphen"/>joyce in it.</hi> So that as the Palmiſt ſayde of HIERUSALEM, <hi>Glo<g ref="char:EOLhyphen"/>rious thinges are ſpoken of thee, O Citie of GOD:</hi> So, in ſome ſort, wee may ſay the lyke of this Daye; <hi>Glorious thinges are ſpoken of thee, O thou Day of the LORD.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> The Apostles their obſervation of the LORD'S Day in lyke manner; and the lyke practiſe of all Chri<g ref="char:EOLhyphen"/>ſtian Churches, both in their tyme, and after.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>S wee haue ſeene, howe the LORD IESVS did honour this Day of His Re<g ref="char:EOLhyphen"/>ſurrection, ſo lyke<g ref="char:EOLhyphen"/>wyſe wee may ſee,
+<pb n="20" facs="tcp:180789:20"/>
+how religiouſlie the holie Apoſtles did obſerue the ſame: Firſt, By the fore<g ref="char:EOLhyphen"/>named practiſe of Saynct <hi>Peter,</hi>
+                  <note place="margin">
+                     <hi>Act.</hi> 2.41.</note> the Apoſtle of the <hi>Iewes,</hi> who vpon that day, immediatelie after the deſcending of the holie Ghoſt, began the publicke exerciſe of the holie Miniſterie; which was crowned with ſo happie and a plentifull ſucceſſe.</p>
+               <p>Lykewyſe, By the practiſe of ſaynct <hi>Paull,</hi> the Apoſtle of the <hi>Gentiles,</hi> as may bee clearlie ſeene in that Storie of the <hi>Acts,</hi>
+                  <note place="margin">
+                     <hi>Act.</hi> 20, 6.7.</note> where it is ſayde, that <hi>having ſtayed ſeaven dayes at Troas,</hi> hee is re<g ref="char:EOLhyphen"/>ported to haue aſſembled the Diſci<g ref="char:EOLhyphen"/>ples &amp; Faythfull together, on the ſea<g ref="char:EOLhyphen"/>venth day onelie, which was the firſt day of the weeke, (and the LORD'S Day) for hearing the Word, and parti<g ref="char:EOLhyphen"/>cipating the Sacrament.</p>
+               <p>In lyke manner, By Apoſtolicall di<g ref="char:EOLhyphen"/>rection vnto all Churches, (1. COR. 16.) wee may ſee, that the Apoſtle ordayned, everie firſt day of the weeke, <hi>That there bee a Collection for the Saynctes.</hi> The reaſon whereof that hee appoynted this Collection to bee on the LORD<hi>'S</hi> Day, ſaynct <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi>
+                  <pb n="21" facs="tcp:180789:20"/>
+giveth; to wit, <hi>That the memo<g ref="char:EOLhyphen"/>rie of the benefits which on that day they obtayned by CHRIST'S Reſur<g ref="char:EOLhyphen"/>rection,</hi>
+                  <note place="margin">Chryſost. in <hi>1.</hi> Cor. <hi>16.</hi>
+                  </note> 
+                  <hi>might make them the more liberallie to contribute to the neceſsi<g ref="char:EOLhyphen"/>ties of their Brethren.</hi> To which <hi>Sedulius</hi> joyneth this,<note place="margin">Sedul. in <hi>1.</hi> Cor. <hi>16.</hi>
+                  </note> 
+                  <hi>Quia non eſt opus ſervile</hi> (ſayeth hee) <hi>elemoſynam congrega<g ref="char:EOLhyphen"/>re:</hi> that is, <hi>It is not a ſervile worke to collect Almes on that day.</hi> And which alſo implyeth, <hi>That no ſervile worke for gayne is to bee vſed there<g ref="char:EOLhyphen"/>on.</hi>
+               </p>
+               <p>That this Collection was vſuall alſo to be ever amongſt all Chriſtians there<g ref="char:EOLhyphen"/>after vpon the LORDS day, when His religious worſhip, and publicke mee<g ref="char:EOLhyphen"/>tinges were, <hi>Iuſtine Martyr</hi> (who lived ſhortlie after the Apoſtles) ſhoweth, ſaying, That <hi>vpon Sundaye,</hi>
+                  <note place="margin">Iuſtin. Mar<g ref="char:EOLhyphen"/>tyr. Apol. <hi>2.</hi> pro Chriſti<g ref="char:EOLhyphen"/>anis, in ſine.</note> 
+                  <hi>when Chriſtians, both in the Town &amp; Coun<g ref="char:EOLhyphen"/>try, do aſſemble together, after the rea<g ref="char:EOLhyphen"/>ding of the word, publicke exhortation by the Pastor, &amp; after Prayer, and ce<g ref="char:EOLhyphen"/>lebration of the Sacrament of Chriſt's Bodie and Blood; then thoſe who are
+<pb n="22" facs="tcp:180789:21"/>
+able, pro ſua quiſque voluntate conferunt,</hi> (ſayeth hee) <hi>&amp; collecta deponuntur apud praepoſitum, iſque ſubvenit pupillis, viduis &amp; propter morbum aliamve neceſsitatem egenti<g ref="char:EOLhyphen"/>bus:</hi> that is, <hi>Then everie one, as he plea<g ref="char:EOLhyphen"/>ſeth, contributeth: and what is colle<g ref="char:EOLhyphen"/>cted, is layd down beſide him who hath the charge thereof, who helpeth the Orphanes, and Widowes, and others, who by ſickneſſe, or anie other neceſsi<g ref="char:EOLhyphen"/>tie, are poore and indigent.</hi> And hee ſubjoyneth, ſaying, <hi>Conventus autem bos die Solis facimus, quoniam hac die primum DEVS depulſis tenebris, formataque materia mundum creavit, IESVS CHRISTVS quoque noſter Servator, eadem die reſurrexit à mortuis:</hi> that is, <hi>Theſe Aſſemblies we make them on Sunday, becauſe on that day the Lord driving away dark<g ref="char:EOLhyphen"/>neſſe, &amp; having formed a matter, He created the world; as alſo our Saviour IESVS CHRIST on that ſame daye aroſe from the dead.</hi> So that wee ſee our Chriſtian, or Lord's Day, abroga<g ref="char:EOLhyphen"/>teth not the memorie of the Creation<g ref="char:punc">▪</g> but beeing the firſt of the Creation, and
+<pb n="23" facs="tcp:180789:21"/>
+the day of CHRIST'S Reſurrection, it putteth vs in mynde, both of the making of the Worlde, and the re<g ref="char:EOLhyphen"/>deeming of the ſame;<note place="margin">Iuſtin. Mar<g ref="char:EOLhyphen"/>tyr. Apol. 2. Aug. de tem<g ref="char:EOLhyphen"/>por. ſerm. <hi>251.</hi>
+                  </note> or of a viſible olde creation, and an inviſible newe one; as witneſſeth both <hi>Iuſtine Martyr,</hi> as alſo holie <hi>Auguſtine.</hi>
+               </p>
+               <p>The ſame obſervation of the day of the Lord's Reſurrection, wee may ſee alſo to haue beene the conſtant and ca<g ref="char:EOLhyphen"/>tholicke practiſe of all Chriſtian Chur<g ref="char:EOLhyphen"/>ches, after the Apoſtolicke tymes, by the witneſſing of other ancient Fathers: Therefore ſayeth <hi>Clemens Romanus,</hi>
+                  <note place="margin">Clem. Rom. Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtit. Ap. l. 2. c. <hi>63.</hi>
+                  </note> 
+                  <hi>Wee Christians aſſemble our ſelues toge<g ref="char:EOLhyphen"/>ther, with great diligence, vpon the LORD'S Day, to prayſe Him,</hi> &amp;c. And <hi>Tertullian;</hi>
+                  <note place="margin">Tertull. apol. c. <hi>39.</hi> &amp; 16. &amp;c. <hi>14.</hi> de Idolo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.</note> 
+                  <hi>Vpon that day</hi> (ſayeth hee) <hi>wee who are Christians, meete together, carefullie, in the holie Aſ<g ref="char:EOLhyphen"/>ſemblies.</hi> And agayne, in his <hi>Apologe<g ref="char:EOLhyphen"/>ticke,</hi> hee ſhoweth, That the honouring of this day, (beeing called after the <hi>Heathniſh</hi> denomination, <hi>Dies Solis</hi>) and aſſembling together for publicke wor<g ref="char:EOLhyphen"/>ſhip thereon, was the occaſion why the <hi>Paganes</hi> gaue it out, That Chriſtians
+<pb n="24" facs="tcp:180789:22"/>
+did worſhip the Sunne. So lykewyſe ſayeth <hi>Baſil</hi> and <hi>Iſichius,</hi>
+                  <note place="margin">Baſil. de Sp. Sancto. c. <hi>27</hi> Et Iſichius, in Levit. cap. <hi>9. See</hi> Aug. de tempore, ſerm. <hi>151.</hi>
+                  </note> That <hi>following the doctrine and direction of the Apostles, the Christians everie, where did ſequester the LORD'S Day, for their holie Aſſemblies.</hi>
+               </p>
+               <p>Thoſe, therefore, who contrarie to Apoſtolicall obſervation, and dire<g ref="char:EOLhyphen"/>ction, and contrarie alſo to the con<g ref="char:EOLhyphen"/>ſtant practiſe of the whole Chriſtian Church, ever there-after, will ſo bold<g ref="char:EOLhyphen"/>lie &amp; irreligiouſlie contemne ſuch Au<g ref="char:EOLhyphen"/>thoritie, and holie examples, and pro<g ref="char:EOLhyphen"/>phane the Lord's day, for their filthie lucre; as they depart heerein from ſo holie a practiſe heere, ſo they may juſt<g ref="char:EOLhyphen"/>lie feare (except they repent, and amende) a dreadfull departure from Him who is Lord of that day, and a ſe<g ref="char:EOLhyphen"/>paration from the ſocietie of thoſe Saynctes heere-after.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="25" facs="tcp:180789:22"/>
+               <head>
+                  <hi>CHAP. V.</hi> The holie ſpeaches, and religious ex<g ref="char:EOLhyphen"/>hortations, of the ancient Fathers, both <hi>Greeke</hi> and <hi>Latine;</hi> or, of the Easterne &amp; Weſterne Church, for the due keeping holie of the LORD'S Day.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, then, to begin with the <hi>Grecian</hi> Fa<g ref="char:EOLhyphen"/>thers; and intending, for brevities cauſe, to bring but a few: <hi>Ig<g ref="char:EOLhyphen"/>natius</hi> Martyr, who lived in the Apoſtles owne tyme, adjureth everie one,<note place="margin">Ignatius, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Magneſ.</note> by the loue of CHRIST, to ha<g ref="char:EOLhyphen"/>low that day, ſaying; <hi>Let everie one who loveth CHRIST, keepe holie the LORD'S Day, renowned by His Re<g ref="char:EOLhyphen"/>ſurrection, which is the Queene of dayes.</hi> So that the prophanation of this daye, and the loue of CHRIST,
+<pb n="26" facs="tcp:180789:23"/>
+can not conſiſt together, and are al<g ref="char:EOLhyphen"/>wayes incompatible.</p>
+               <p>Next, Saynct <hi>Chryſoſtome,</hi> a moſt fa<g ref="char:EOLhyphen"/>mous and holie Biſhop,<note place="margin">Chryſost. hom. 10. in Geneſ. 2.</note> ſhoweth, That <hi>from the verie beginning the LORD hath requyred, that one day in everie weeke, conſtantlie and whollie, ſhould bee ſet a-part, by His Church, to bee entierlie appropriated &amp; applyed for Spirituall exercyſes, tending to the good of the ſoules; as the rest of the dayes of the weeke are applyed by vs, for corporall and ſervile labour, ten<g ref="char:EOLhyphen"/>ding to the good of the bodie, and mayntaynance of the naturall lyfe.</hi>
+               </p>
+               <p>Saynct AUGUSTINE alſo, that great Light of the Weſterne Church,<note place="margin">Aug. ſerm. <hi>215.</hi>
+                  </note> vrgeth the religious and entiere obſervation of the Chriſtian Sabbath, by comparing the ſame with the obſervation of the Jewiſh Sabbath, ſaying; <hi>If the vnhap<g ref="char:EOLhyphen"/>pie Iewes doe with ſo great devotion celebrate their Sabbath, ſo that vpon the ſame they will doe no earthlie worke; how much more ſhould Chri<g ref="char:EOLhyphen"/>ſtians vpon the LORD'S Daye much
+<pb n="27" facs="tcp:180789:23"/>
+more attende His Worſhip, and for the ſalvation of their ſoules, aſſemble themſelues together in the Church of GOD?</hi>
+               </p>
+               <p>GREGORIE the Great alſo, wryting to the Citizens of ROME,<note place="margin">Greg. l. <hi>11.</hi> epist. <hi>3.</hi>
+                  </note> ſhoweth both where-from wee ſhould reſt, and howe wee ſhould whollie employ our ſelues on the Lord's day, laying; <hi>Vpon the LORD'S Day a ceſſation ſhould bee altogether from earthlie labour, and men ſhould whollie giue themſelues to inſist in Prayer; that what by negli<g ref="char:EOLhyphen"/>gence the ſixe dayes of the weeke hath beene committed, by Prayer vpon the LORD'S Day the ſame may hee ex<g ref="char:EOLhyphen"/>piated.</hi>
+               </p>
+               <p>Seeing, therefore, this day ſo manie wayes hath beene honoured by Chriſt, ſtamped with His Name, celebrated by His Apoſtles, obſerved by the Church, and recommended vnto vs by the Fathers, whoſoever with an high hand of rebellion agaynſt God, and His Church, will wilfullie prophane the ſame, hee ſinneth grievouſlie agaynſt
+<pb n="28" facs="tcp:180789:24"/>
+his own ſoule, and the ſoules of others: and, as learned <hi>Hooker</hi> ſayeth, <hi>The vo<g ref="char:EOLhyphen"/>luntarie ſcandalous contempt of re<g ref="char:EOLhyphen"/>ſting from labour on that Day where<g ref="char:EOLhyphen"/>on the LORD is publicklie ſerved, can not bee too ſeverelie brydled and corrected.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> The Decrees of Councels, as alſo of Godlie Emperours and Princes, for the due obſervation of the Lord's Daye.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, then, wee will ſet downe thoſe Ca<g ref="char:EOLhyphen"/>nons of ancient and famous Councels, which declare what is forbidden on the Lord's daye; and next, thoſe which ſhowe what is com<g ref="char:EOLhyphen"/>manded.</p>
+               <p>
+                  <note place="margin">Synod. 6. c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p. <hi>8</hi>
+                  </note>The ſixt Generall Councell, then,
+<pb n="29" facs="tcp:180789:24"/>
+forbiddeth all bodilie worke, except that which is for the refreſhment of na<g ref="char:EOLhyphen"/>ture that day.</p>
+               <p>Thus alſo ſayeth the Councell of <hi>Rhemes</hi> (holden in the 8<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 yeare of CHRIST,<note place="margin">Concil. Rhe<g ref="char:EOLhyphen"/>menſ. can. <hi>35.</hi>
+                  </note> and tyme of LEO the third) <hi>Vpon the LORD'S Daye, ſecundùm DOMINI Praeceptum?</hi> that is, <hi>accor<g ref="char:EOLhyphen"/>ding to the LORD'S owne comman<g ref="char:EOLhyphen"/>dement, let no man doe anie ſervile worke.</hi>
+               </p>
+               <p>Next, the Councell of <hi>Cabilon</hi> (hol<g ref="char:EOLhyphen"/>den in the 653 yeare of CHRIST, and tyme of <hi>Eugenius</hi>) more particularlie ſpeaketh of ſuch works, as having but a ſhort ſeaſon, and are ſubject to ſundrie dangers both of wnde &amp; rayne, and are for the ſuſtentation of the whole Coun<g ref="char:EOLhyphen"/>trey: &amp; yet ſay the Fathers of this Coun<g ref="char:EOLhyphen"/>cell,<note place="margin">Concil. Ca<g ref="char:EOLhyphen"/>bilen. can. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> 
+                  <hi>Wee ordayne vpon the LORD'S Day, that landward or countreye la<g ref="char:EOLhyphen"/>bour, ſuch as plowing, or reaping of Cornes, or whatſoever belongeth vnto Huſbandrie, no man preſume to doe.</hi>
+               </p>
+               <p>The reaſon whereof the Councell of <hi>Paris</hi> (holden in the 550 yeare of CHRIST,<note place="margin">Conſit. Pa<g ref="char:EOLhyphen"/>riſ. can. <hi>50<g ref="char:punc">▪</g>
+                     </hi>
+                  </note> and tyme of <hi>Pelagius</hi> the
+<pb n="30" facs="tcp:180789:25"/>
+firſt) giveth thus, ſaying, that <hi>thoſe who doe any ſervile labour on this day, decus Chriſtianitatis obfuſcant.</hi> &amp;c. that is, <hi>they obſcure the honour of Christiani<g ref="char:EOLhyphen"/>tie, &amp; furniſh to thoſe who blaſpheme the Name of CHRIST, more matter of blaſpheming the ſame: Wherefore it becommeth</hi> (ſay they) <hi>a Christian vpon that day, to bee exerciſed in di<g ref="char:EOLhyphen"/>vine prayſe, and not in ſervile workes.</hi>
+               </p>
+               <p>Yea, ſuch a ceſſation ſhould bee, ſayeth the Councell of <hi>Arles,</hi> (holden in the 805 yeare of CHRIST,<note place="margin">Council. Ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lat. cap. 1.</note> and tyme of LEO the firſt) <hi>His ſolummodo peractis quae ad DEI cultum, &amp; fervitium pertinere noſcuntur:</hi> that is, <hi>That thoſe thinges onelie bee performed, which are knowne to belong to GOD'S wor<g ref="char:EOLhyphen"/>ſhip and ſervice.</hi>
+               </p>
+               <p>The reaſon whereof, vvhy wee ſhould onelie applye our ſelues on that day to the LORD'S ſervice allanerlie,<note place="margin">Concil. Ma<g ref="char:EOLhyphen"/>tiſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. 2. can. 1. cele<g ref="char:EOLhyphen"/>bratum an<g ref="char:EOLhyphen"/>no 590.</note> the Councell of MATISCON giveth, ſaying. <hi>Wee ought to keepe holie the Lord's daye, whereon wee were be<g ref="char:EOLhyphen"/>gotten
+<pb n="31" facs="tcp:180789:25"/>
+of anew, &amp; delivered from our ſinnes; and wherein wee were made to bee, what wee were not before. For wee were</hi> (ſay they) <hi>the ſervantes of ſinne; but are made by it the ſonnes of Righteouſneſſe: Therefore let our eyes, and handes, all that whole day, bee lif<g ref="char:EOLhyphen"/>ted vp to GOD.</hi>
+               </p>
+               <p>Concerning the religious obſerva<g ref="char:EOLhyphen"/>tion lykewyſe of the Lord's day,<note place="margin">
+                     <hi>Novel.</hi> 4. <hi>Leon. c.</hi> 54.</note> thus ſayeth the Imperiall Conſtitution, ſe<g ref="char:EOLhyphen"/>conding thoſe holie Councels; <hi>Wee or<g ref="char:EOLhyphen"/>dayne, (as it hath alſo pleaſed the ho<g ref="char:EOLhyphen"/>lie Ghost, and them who are appoyn<g ref="char:EOLhyphen"/>ted by Him) that all men vpon that holie day, whereon our integritie and libertie was reſtored, rest from labours and neyther Huſbandman, nor anie others, enterpryſe vpon that daye anie worke, the ſame beeing vnlawfull: For if they who did obſerue the ſhadow and figure, ſo much reverenced this Sabbath, that thereon they abſtayned from all worke whatſoever; what equi<g ref="char:EOLhyphen"/>tie is it, that they who profeſſe the
+<pb n="32" facs="tcp:180789:26"/>
+trueth of thoſe figures, and the light of grace,</hi>
+                  <note place="margin">
+                     <hi>See</hi> Aug. ſerm. de tem<g ref="char:EOLhyphen"/>pore <hi>251.</hi> &amp; ſerm. <hi>154</hi>
+                  </note> 
+                  <hi>ſhould not reverence that day, which was ſo greatlie honoured by the LORD Himſelfe, and dely<g ref="char:EOLhyphen"/>vered vs from ſhamefull deſtruction.</hi>
+               </p>
+               <p>
+                  <note place="margin">Sozom. l. 1. cap. <hi>8.</hi>
+                  </note>
+                  <hi>Sozomen</hi> alſo maketh mention of a law that <hi>Conſtantin</hi> made for the obſervation of the LORDS day, rendering this rea<g ref="char:EOLhyphen"/>ſon; <hi>Becauſe the LORD IESVS did ryſe thereon, and rayſed vs from our fall in Adam,</hi> (ſayeth hee.)</p>
+               <p>
+                  <note place="margin">Pipinus Rex. in Con<g ref="char:EOLhyphen"/>cil. For<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ju<g ref="char:EOLhyphen"/>lienſi, c. <hi>13</hi>
+                  </note>Lykewyſe ſayeth <hi>Pipinus; Wee com<g ref="char:EOLhyphen"/>mand, That on that Day all abſtinence bee from ſinfull workes, and all workes of the fleſh, and from all earthlie la<g ref="char:EOLhyphen"/>bour; and, that men attende nothing elſe, but Prayer, and to aſſemble themſelues in the Churches with great devotion of mynde, and with charitie and loue, that they bleſſe the LORD.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="33" facs="tcp:180789:26"/>
+               <head>
+                  <hi>CHAP. VII.</hi> The Ancient and Moderne Conſtitu<g ref="char:EOLhyphen"/>tions, both of our owne Church and Kingdome of <hi>Scotland,</hi> for due obſervation of the LORD'S DAY.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ext, from beyond Sea, to come nearer home:</p>
+               <p>In SCOTLAND we find an ancient Cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cell to haue beene holden in the yeare 1203, and tyme of Pope <hi>Innocent</hi> the third; wherein the manner of the reli<g ref="char:EOLhyphen"/>gious obſervation of the LORD'S Day was at length ſet downe; as wee haue the ſame in the third Tome of the Generall Councels, ſet foorth by <hi>Binius,</hi> the ſecond part, <hi>fol.</hi> 668: to wit, That <hi>the ſame ſhall bee by ceſſation from ſervile workes, and from ſelling or
+<pb n="34" facs="tcp:180789:27"/>
+buying; and, That men devotelie ſhould continue in Prayers, and doing of charitable deedes:</hi> one <hi>Euſtachius</hi> an Abbot there, giving this as a reaſon thereof; <hi>Quia CHRISTVS nativitate</hi> (ſayeth hee) <hi>&amp; reſurrectione ſua, &amp; adven<g ref="char:EOLhyphen"/>tuſao, &amp; miſsione Spiritus Sancti in Diſcipulos ſuos, ſibi hunc diem quem Dominicum vocamus illuſtravit, &amp; celeberrimum dedicavit:</hi> that is, <hi>Becauſe CHRIST, by His Birth and Reſurrection, alſo by His com<g ref="char:EOLhyphen"/>ming, and ſending the holie Ghoſt vp<g ref="char:EOLhyphen"/>on His Diſciples, hath honoured this Day, which wee call THE LORD'S DAY, and dedicated the ſame vnto Himſelfe, as a most excellent and ho<g ref="char:EOLhyphen"/>lie Day.</hi>
+               </p>
+               <p>As alſo in the late Conſtitutions and Canons Eccleſiaſticall, of the Church of SCOTLAND, it is ſet downe, That <hi>The publick meetings on the LORDS Daye,</hi>
+                  <note place="margin">Conſtit. &amp; Can. Ec<g ref="char:EOLhyphen"/>cleſ. cap. 9.</note> 
+                  <hi>and other tymes appoynted by the Church, beeing a ſpeciall exter<g ref="char:EOLhyphen"/>nall meane to entertayne the commu<g ref="char:EOLhyphen"/>nion of the Saynctes, it is therefore ordayned, that the ſame ſhall be care<g ref="char:EOLhyphen"/>fullie
+<pb n="35" facs="tcp:180789:27"/>
+obſerved by all perſons, of what condition ſoever; both in haunting to Divine worſhip, and vſing all due reverence in tyme thereof, and gi<g ref="char:EOLhyphen"/>ving all quiet and diligent attendance thervnto.</hi>
+               </p>
+               <p>Lykewyſe for Civill Conſtitutions, wee find it a Statute of King ALEXAN<g ref="char:EOLhyphen"/>DER the ſecond; as wee haue in the Booke of Majeſtie, concerning Sal<g ref="char:EOLhyphen"/>mond-Fiſhing in particular; That the water ſhould bee free:<note place="margin">Regiam Ma<g ref="char:EOLhyphen"/>jest. Tit. Lex aqua<g ref="char:EOLhyphen"/>rum, c. 16.</note> 
+                  <hi>So that no man</hi> (ſayeth the Statute) <hi>ſhould take fiſhes therin, from Saturnday at night, till Moonday at Sunne-ryſing.</hi>
+               </p>
+               <p>And in the moſt happie Reygne of our late dread Sovereygne, king IAMES, of ever-bleſſed memorie,<note place="margin">Iam. <hi>6.</hi> par<g ref="char:EOLhyphen"/>liam. <hi>6.</hi> c. <hi>70</hi>
+                  </note> it is ſtatuted in Parliament, <hi>That no handie-labour nor working bee vpon the LORD'S Day, nor anie wilfull remayning from divine Worſhip thereon.</hi> In both which our Salmond-Fiſhers notoriouſ<g ref="char:EOLhyphen"/>lie tranſgreſſe: and ſo are rebellious both to Divine and Humane Authori<g ref="char:EOLhyphen"/>tie;
+<pb n="36" facs="tcp:180789:28"/>
+and to the Lawes both Ancient and Moderne; of Church, and Common<g ref="char:EOLhyphen"/>wealth.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. VIII.</hi> The Ancient and Moderne Conſtitu<g ref="char:EOLhyphen"/>tions, both of the Church and Kingdome of <hi>ENGLAND,</hi> for due obſervation of the LORD'S DAY.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ext, if wee view the Ancient Conſtitutions of that Famous and Neyghbour-Church, and Kingdome, of ENGLAND, wee ſhall finde, that in a Canon of a Councell holden by <hi>Egbert,</hi> Arch-biſhop of <hi>Yorke,</hi> (anno 784) That <hi>the Goſpell is ordayned to be preached to the people everie Lord's day:</hi> and, <hi>That they duelie convene, of all ſorts, to the hearing thereof.</hi> The verie
+<pb n="37" facs="tcp:180789:28"/>
+ſame beeing enacted a few yeares be<g ref="char:EOLhyphen"/>fore, by <hi>Cutbbert,</hi> Arch-biſhop of <hi>Doro<g ref="char:EOLhyphen"/>bermia,</hi> (anno 747) ordayding,<note place="margin">Concil. Clo<g ref="char:EOLhyphen"/>veſhoniae, c. <hi>14.</hi>
+                  </note> 
+                  <hi>That this day bee, Cultui divino tantummodo di<g ref="char:EOLhyphen"/>catus:</hi> that is, <hi>That the ſame may bee dedicated onlie vnto God's worſhip.</hi>
+               </p>
+               <p>As alſo in another Councell holden by the commandement of King <hi>Ethel<g ref="char:EOLhyphen"/>red, Aelfeagus</hi> beeing Arch-biſhop of <hi>Dorobermia,</hi>
+                  <note place="margin">C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>il. Aema<g ref="char:EOLhyphen"/>nenſe Pam<g ref="char:EOLhyphen"/>brebritanni<g ref="char:EOLhyphen"/>cum, c. <hi>15.</hi>
+                  </note> and <hi>Vulſtane</hi> Arch-biſhop of <hi>Yorke,</hi> it was decreed, (anno 1009) <hi>That the Lord's daye, and ſolemnitie thereof, ſhould bee with great honour celebrated: Nec quicquam in eadem ope<g ref="char:EOLhyphen"/>ris agatur ſervilis:</hi> that is, <hi>And that no ſervile labour bee done therevpon.</hi>
+                  <note place="margin">Conſtit. Ec<g ref="char:EOLhyphen"/>cleſ. c. <hi>15.</hi> Canutus le<g ref="char:EOLhyphen"/>ge <hi>14.</hi>
+                  </note> Which was alſo decreed in the Church Conſtitutions of <hi>ENGLAND,</hi> and in the reygne of <hi>Canutus</hi> the <hi>Dane,</hi> (anno 1026) by a Statute.</p>
+               <p>Next, from Ancient Eccleſiaſticall Canons, to come to ſuch as are later,<note place="margin">Conſtit. &amp; Can. Eccl. cap. <hi>13.</hi>
+                  </note> wee ſhall finde, that in thoſe which are now in vſe in the Church of ENG<g ref="char:EOLhyphen"/>LAND, all manner of perſons are orday<g ref="char:EOLhyphen"/>ned to keepe holie the Lord's daye, commonlie called <hi>SVNDAY,</hi> accor<g ref="char:EOLhyphen"/>ding
+<pb n="38" facs="tcp:180789:29"/>
+to God's Will, and Orders of the Church: that is, In hearing the Word of God read and taught, in private and publicke Prayers, in receaving the communion of the Bodie and Blood of CHRIST, viſiting the Poore, and Sicke; and in ſuch holie Exercyſes, which are fitting for that day.</p>
+               <p>And laſt, if wee come from Eccle<g ref="char:EOLhyphen"/>ſiaſticall Canons, to Civill Conſtitu<g ref="char:EOLhyphen"/>tions,<note place="margin">Ex Ina regis occid. Sax. lib. cap. <hi>3.</hi>
+                  </note> in ENGLAND wee ſhall finde in the days of <hi>Ina,</hi> king of the <hi>Weſt-Saxons,</hi> (anno 688) that it is ſtatuted by him, That if a Servant worke on the Sunday at the commaundement of his maſter, hee ſhall thence-foorth bee free, and his maſter ſhall paye for his Fyne, thirtie ſhillinges. But if hee doe ſo without the commandement of his maſter, hee ſhall bee ſcourged, except hee redeeme himſelfe, by a pryce, there-from.</p>
+               <p>And agayne: In the raygne of King EADGAR, about the yeare of GOD 966, it is ſtatuted, That everie one ob<g ref="char:EOLhyphen"/>ſerue the Sunday whollie, from Sa<g ref="char:EOLhyphen"/>turndaye evening, to Moondaye mor<g ref="char:EOLhyphen"/>ning.</p>
+               <p>
+                  <pb n="39" facs="tcp:180789:29"/>And, latelie,<note place="margin">Queene Eli<g ref="char:EOLhyphen"/>zabeth her Injunctions, Artic. <hi>34.</hi> Anno <hi>27.</hi> Henrici <hi>6.</hi> cap. <hi>5.</hi> King Iames proclamation alſo at Theo<g ref="char:EOLhyphen"/>balds, <hi>1603.</hi> for keeping the LORDS DAY.</note> In the Religious Con<g ref="char:EOLhyphen"/>ſtitutions of that famous young Prince, <hi>EDWARD THE SIXT,</hi> and Queene <hi>ELIZABETH;</hi> of ever-bleſſed memo<g ref="char:EOLhyphen"/>rie, as in their Statutes of Parliament amplie may bee ſeene, and in the Sta<g ref="char:EOLhyphen"/>tutes of <hi>HENRIE THE SIXT</hi> be<g ref="char:EOLhyphen"/>fore them; wherein whatſoever may with-drawe men, and their ſervantes, from Divine Service, is forbidden.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP, IX.</hi> Howe the Lord's day is to bee obſer<g ref="char:EOLhyphen"/>ved, and what workes are permiſ<g ref="char:EOLhyphen"/>ſible, or not permiſsible, thereon: And ſpeciallie, That the <hi>Sal<g ref="char:EOLhyphen"/>mond-fiſhing</hi> thereon is no wayes permiſsible, or lawfull.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ext to the former motiues for obſerva<g ref="char:EOLhyphen"/>tion of the Lord's daye, wee are to con<g ref="char:EOLhyphen"/>ſider, how it is to bee obſerved: which is
+<pb n="40" facs="tcp:180789:30"/>
+firſt, By <hi>CESSATION</hi> (as hath beene ſhowne) from all ſervile and laborious worke, intended onelie for gayne. And therefore in EXODVS this Ceſſation was appoynted both in Seed-tyme,<note place="margin">
+                     <hi>Exod.</hi> 34.21</note> and in Harveſt. Next: Becauſe to reſt on<g ref="char:EOLhyphen"/>lie from our ordinarie worke, were to keepe the Lord's daye rather lyke a Beaſt, than a Chriſtian. Therefore wee muſt knowe, That this Ceſſation is commanded, (as <hi>Auguſtine</hi> ſayeth) <hi>Vt paratiores &amp; promptiores ſimus ad Divinum Cultum:</hi> that is, <hi>That wee may bee the more readie and fit for GOD'S ho<g ref="char:EOLhyphen"/>lie Worſhip.</hi> And labour, or working thereon, is therefore forbidden; becauſe of impeding, or with-drawing there<g ref="char:EOLhyphen"/>by of men from the Lord's Worſhip. No action, then, is to bee done of that ſort, but ſuch as whereby wee eyther bleſſe GOD, or looke therein to re<g ref="char:EOLhyphen"/>ceaue a Bleſſing from GOD. Seeing, therefore, the Salmond-fiſhing, vpon the Lord's daye, is a ſervile and toyl<g ref="char:EOLhyphen"/>ſome worke, intended onlie for gayne, and that thereby ſuch a number of ſoules are hindered, and withdrawne, from the Lord's Worſhip; Howe dare
+<pb n="41" facs="tcp:180789:30"/>
+people doe ſuch a thing vpon that bleſ<g ref="char:EOLhyphen"/>ſed daye, wherevpon they can neyther looke vp to GOD, to ſeeke a Bleſſing to their vſe, or expect a Bleſſing from His Hand? But rather maye juſtlie feare a Curſe heere, and Condemnation heere-after.</p>
+               <p>But yee will ſaye; <hi>Is no worke to bee done vpon the Lord's Daye?</hi> I an<g ref="char:EOLhyphen"/>ſwere; There are three ſorts of workes not onelie permiſſible, but lawfull, vp<g ref="char:EOLhyphen"/>on the Lord's daye: which are, <hi>Pieta<g ref="char:EOLhyphen"/>tis, Charitatis, &amp; Neceſsitatis:</hi> Of Pietie, towardes God; of Charitie, to<g ref="char:EOLhyphen"/>wardes our Neyghbour; and of Neceſ<g ref="char:EOLhyphen"/>ſitie, towardes our ſelues.</p>
+               <p>Firſt, then, <hi>Workes of Pietie,</hi> are to be done vpon the Lord's day, which eyther directlie concerne God's Wor<g ref="char:EOLhyphen"/>ſhip, (tho performed by bodilie worke) as the preaching of the Goſpell nowe, and other Miniſteriall paynes, vpon the Lord's daye; and the Prieſtes vnder the Lawe, their killing and dreſsing the Sacrifices on the Iewiſh Sabbath, bur<g ref="char:EOLhyphen"/>ning them on the Altar: concerning whom our Saviour ſayde, that <hi>the
+<pb n="42" facs="tcp:180789:31"/>
+Priestes brake the Sabbath,</hi>
+                  <note place="margin">Matth. 12.<hi>5.</hi>
+                  </note> 
+                  <hi>and yet were blameleſſe:</hi> To wit, They brake it, in ſo farre as they reſted not thereon, or, <hi>Quoad quiete<g ref="char:cmbAbbrStroke">̄</g>;</hi> but not in regard of the commandement of halowing the ſame, or, <hi>Quoad praeceptum.</hi> For, ſuch workes are not forbidden by that Precept, whereby wee ſerue <hi>GOD</hi> onelie: or elſe they are ſuch workes of Pietie, as indi<g ref="char:EOLhyphen"/>rectlie concerne <hi>GOD'S</hi> Worſhip, whereby the people are aſſembled to divine Worſhip: as the blowing of Trumpets vnder the Lawe, and rin<g ref="char:EOLhyphen"/>ging of Belles nowe vnder the Goſpell. The holie ende of all which workes, doeth ſanctifie the ſame, as the <hi>Temple did the Golde; or the Altar, the Gift thereon.</hi>
+               </p>
+               <p>And, vpon the peoples part who aſ<g ref="char:EOLhyphen"/>ſemble together, their preparing of themſelues duely, traveling to their Pa<g ref="char:EOLhyphen"/>riſh-Churches diligentlie, hearing the Word attentiuelie, praying and pray<g ref="char:EOLhyphen"/>ſing <hi>GOD</hi> devotelie, and inſtructing their Families religiouſlie. All theſe, and the lyke, are the workes of Pietie, which becommeth the <hi>LORD'S</hi> daye ſuteablie.</p>
+               <p>
+                  <pb n="43" facs="tcp:180789:31"/>Next; <hi>Workes of Charitie,</hi>
+                  <note place="margin">1. <hi>Cor.</hi> 16.</note> are to be done vpon the <hi>LORD'S</hi> Day: and therefore the Apoſtle appoynted, That the Collection for the Poore, (as is vſuall amongſt vs) ſhould bee on that daye. In lyke manner,<note place="margin">
+                     <hi>Marke</hi> 3.4.</note> Our Saviour declareth, That the lyfe eyther of Man or Beaſt, ought to bee preſerved vpon the Sabbath daye;<note place="margin">
+                     <hi>Matth.</hi> 12.1.11.</note> eyther by delivering the ſame from danger, or by neceſſarie ſupport of Foode, or the lyke. The vi<g ref="char:EOLhyphen"/>ſiting alſo of the Sicke,<note place="margin">
+                     <hi>Marke</hi> 2.28.</note> relieving the Poore, curing the diſeaſed, and ſuch lyke, are the workes of Charitie, ſute<g ref="char:EOLhyphen"/>able for the <hi>LORD'S</hi> daye: <hi>For I will haue Mercie,</hi> ſayeth the Lord, <hi>rather than Sacrifice.</hi>
+               </p>
+               <p>Laſt; <hi>Workes of Neceſsitie,</hi> may bee performed vpon the <hi>LORD'S</hi> daye, which are not for wordlie gayne, or ac<g ref="char:EOLhyphen"/>quiſition, by ſervile toyle, and labour of thinges to bee ours, which before the employment in the ſayde ſervile la<g ref="char:EOLhyphen"/>bour, were not ours, (as the Salmond-Fiſhing is) but which are for neceſſarie preſervrtion, in evident and imminent danger, of that which is in our poſſeſ<g ref="char:EOLhyphen"/>ſion,
+<pb n="44" facs="tcp:180789:32"/>
+and wee haue right vnto alreadie:<note place="margin">Epist. De<g ref="char:EOLhyphen"/>cret. l. 2. c. <hi>3.</hi>
+                  </note> as to drawe our Oxe out of the myre, beeing readie to drowne; to flit our Cornes out of the lowe Valleyes, when by inundation of neare adjoyning Wa<g ref="char:EOLhyphen"/>ters, they are in evident danger to bee carried away: to quench, in lyke man<g ref="char:EOLhyphen"/>ner, houſes that are on fyre, &amp; ſuch like. Therefore, beſide our owne men, ſo al<g ref="char:EOLhyphen"/>ſo ſayeth SVAREZ; <hi>Cauſa generalis indu<g ref="char:EOLhyphen"/>cens excuſatione<g ref="char:cmbAbbrStroke">̄</g>,</hi>
+                  <note place="margin">Suarez. lib. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. de dicb. fest. tom. <hi>1.</hi> c. <hi>32.</hi>
+                  </note> 
+                  <hi>eſt neceſsitas imminens quae praeveniri non potuit:</hi> that is, <hi>The gene<g ref="char:EOLhyphen"/>rall cauſe which importeth an excuſe, is an imminent neceſsitie onlie, which could not bee prevented.</hi>
+               </p>
+               <p>In lyke manner, for ſome Callings to exerciſe the practiſe thereof; as Phyſi<g ref="char:EOLhyphen"/>cians, in Pleuriſies, to let blood; Chy<g ref="char:EOLhyphen"/>rurgians, to paunſe, and applye Cures; Mid-wyues, to helpe Women in travell; Mariners, to governe their Shippes on the Seas, &amp;c. all which are for preſerva<g ref="char:EOLhyphen"/>tion of lyues. Souldiours alſo, if they bee aſſaulted vpon the LORD'S Day, to defende themſelues, and fight; as we reade the MACHABEES did,<note place="margin">1. <hi>Machab.</hi> 2.41.</note> when they were ſet vpon, on the Sabbath Daye:
+<pb n="45" facs="tcp:180789:32"/>
+to entrinch and fortifie themſelues, al<g ref="char:EOLhyphen"/>ſo, vpon the approach of the Enemie; ſtell their Pieces, cut Bridges, or doe the lyke: all which is lawfull; Becauſe, (as SVAREZ ſayeth) <hi>Neceſsitas Reipubli<g ref="char:EOLhyphen"/>cae, &amp; conſervationis ſuae hoc exigit.</hi>
+                  <note place="margin">Suarez. loco quo ſupra.</note> And the Lawe is, <hi>Quod non eſt licitum in Lege, neceſsitas facit licitum:</hi> that is; <hi>The ne<g ref="char:EOLhyphen"/>ceſsitie of the Common-wealth, and of their owne preſervation, requyreth this: and what is not lawfull in lawe, neceſsitie maketh lawfull otherwiſe.</hi>
+               </p>
+               <p>Some actions, alſo, which tende not to the preſervation of liues, in evident dan<g ref="char:EOLhyphen"/>ger otherwyſe, but to the preſervation alſo of ſuch thinges as tende to the ne<g ref="char:EOLhyphen"/>ceſſitie of lyfe, and good of the whole Common-wealth, beeing in imminent and evident danger otherwyſe, are law<g ref="char:EOLhyphen"/>full, and thought permiſſible vpon the LORD'S Daye; As the keeping of Cole-heughes dry, which might other<g ref="char:EOLhyphen"/>wyſe fill with water, and periſh, to the detriment of a whole Countrey: The ſloaking, or quenching, of Moſſes, that haue taken fyre in droughtie weather; and are in perill to bee conſumed them<g ref="char:EOLhyphen"/>ſelues,
+<pb n="46" facs="tcp:180789:33"/>
+and to conſume the Cornes neare vnto them: both which are workes of neceſſitie: not for acquiſi<g ref="char:EOLhyphen"/>tion of new gayne, (for Servants work not in Cole-heughes on the LORD'S Daye, nor in Peat-moſſes) but for pre<g ref="char:EOLhyphen"/>ſervation of that which is ours alrea<g ref="char:EOLhyphen"/>die, beeing in evident danger; and the loſſe whereof would import great pre<g ref="char:EOLhyphen"/>judice to the Common-wealth, and whole Countrey.</p>
+               <p>As for keeping in of fyre onelie, in Glaſſe-Fornaces, (but not making anie Glaſſes on the <hi>LORD'S DAY</hi>) and alſo in Salt-pannes, it is accounted, by ſundrie, a neceſſarie preſervation onlie: neyther is it a toylſome worke, nor <hi>La<g ref="char:EOLhyphen"/>bor multorum,</hi> to avocate manie from di<g ref="char:EOLhyphen"/>vine Worſhip. And of ſuch SVAREZ ſayeth this is the Rule: <hi>Quando inchoa<g ref="char:EOLhyphen"/>tum opus non potest intermitti ſine diſpen<g ref="char:EOLhyphen"/>dio perſonae &amp; Communitatis in die Feſto,</hi>
+                  <note place="margin">Suarez. lib. <hi>2</hi> de Feſt. dicb. cap. <hi>32.</hi>
+                  </note> 
+                  <hi>licitum putatur:</hi> that is; <hi>When a be<g ref="char:EOLhyphen"/>gun worke can not be left off, without the hurt of the perſon, and of a whole Communitie, ſuch a worke is thought lawfull vpon the Holie Day.</hi>
+               </p>
+               <p>But of Salmond-Fiſhing vpon the
+<pb n="47" facs="tcp:180789:33"/>
+                  <hi>LORD'S DAY,</hi> hee ſayeth expreſſ<g ref="char:EOLhyphen"/>lie; <hi>Piſcatio in die Feſto propter lucrum,</hi>
+                  <note place="margin">lib. <hi>2.</hi> de feſt. dies, cap. <hi>19.</hi> pag. <hi>209.</hi>
+                  </note> 
+                  <hi>eſt opus ſervile, &amp; prohibitum:</hi> that is, <hi>But fiſhing for gayne vpon the Ho<g ref="char:EOLhyphen"/>lie Day, is a ſervile worke, and al<g ref="char:EOLhyphen"/>together forbidden.</hi>
+               </p>
+               <p>Neyther can it bee anie wayes ac<g ref="char:EOLhyphen"/>counted a worke of Neceſſitie:</p>
+               <p n="1">1. Beeing onelie for making world<g ref="char:EOLhyphen"/>lie gayne, and acquiſition by ſervile and laborious toyle, of thinges to bee theirs, which before the employment in the ſayde ſervile worke, was not theirs.</p>
+               <p n="2">2. If the pretence of making gayne, or acquyring, were a neceſſitie on the <hi>LORD'S DAY,</hi> then no Aartizane, (eſpeciallie of the poerer ſort) but might alleadge alſo his working on the <hi>LORD'S DAY,</hi> to bee a worke of neceſſitie. And thoſe, in lyke manner, who are Whyte-Fiſhers, might juſtlie alleadge their Fiſhing on the <hi>LORD'S DAY,</hi> to bee a worke of neceſſiitie, be<g ref="char:EOLhyphen"/>cauſe of their povertie, for the moſte parte; and, That they haue not always Fiſhing-weather on the Sea; and, What they ſlipped that daye, they would not
+<pb n="48" facs="tcp:180789:34"/>
+attayne agayne. Others, lykewyſe, might pretende, Their ſeverall neceſſi<g ref="char:EOLhyphen"/>ties: and, ſo, in ende, caſt all Religion looſe.</p>
+               <p n="3">3. But the trueth is; Without anie neceſſitie, it hindereth, and with-dra<g ref="char:EOLhyphen"/>weth, men from a worke, which is, in<g ref="char:EOLhyphen"/>deede, of the greateſt neceſſicie that can bee; which is, The Worſhip of GOD, and, Salvation of their owne Soules. So that I may ſay juſt<g ref="char:EOLhyphen"/>lie, in the wordes of the PROPHET IEREMIE,<note place="margin">
+                     <hi>Ierem.</hi> 2.34</note> That <hi>In their Skirts is found the verie Blood of the Soules of men:</hi> Which cannot but crye lowder agaynſt them, than the blood of ABELL did agaynſt CAIN. And which beeing bought by ſo precious a pryce, as the Blood of the Sonne of GOD, What may they expect, as their judge<g ref="char:EOLhyphen"/>ment, who make their gayne thereby, and their Houſes an <hi>Aceldama,</hi> or a Field of Blood?</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="49" facs="tcp:180789:34"/>
+               <head>
+                  <hi>CHAP. X.</hi> What are the manie and great evills, which the prophaning of the LORD'S DAY, by <hi>Salmond-Fiſhing,</hi> produceth.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving now looked vpon this forbidden Tree, let vs conſi<g ref="char:EOLhyphen"/>der what Fruite it bringeth foorth: Surelie nothing but lyke the Pro<g ref="char:EOLhyphen"/>phet's wilde gourdes,<note place="margin">2. <hi>King.</hi> 4.40.</note> which made Death to bee in the Potte: or ſuch whereof the LORD complayneth, (<hi>ISAIAH</hi> 5.) That His Vine-yarde brought foorth even <hi>ſowre Grapes,</hi> vvhich will once ſet their teeth on edge.</p>
+               <p>
+                  <pb n="50" facs="tcp:180789:35"/>For, 1. This prophanation of the <hi>LORD'S DAY,</hi> robbeth the LORD of His due Worſhip, which thoſe ſhould giue vnto Him, who are employed in place of GOD'S Ser<g ref="char:EOLhyphen"/>vice, to ſerue man; and, according to NATHAN'S parable, When wee haue manie dayes of the weeke as ours, or for our ſervice, and will not be con<g ref="char:EOLhyphen"/>tented there-with; but will robbe GOD of that one day which He hath for His Service and Worſhip; vvhat fearfull Sentence can ſuch expect, That their owne mouth, (lyke DAVID'S) ſhall bee made, one daye, to pronounce agaynſt themſelues?</p>
+               <p n="2">2. Their Servantes (who thus pro<g ref="char:EOLhyphen"/>phane the <hi>LORD'S DAY,</hi> by their ſervile employment) are wofullie defrauded of their Soules Foode, and Spirituall Edification: So that whyles themſelues ſhould bee caught, by the Nette of the Goſpell, to bee brought vnto CHRIST, they are catching vnlawfull Gayne, to bring vnto their Maſters: Lyke that Damoſell in the
+<pb n="51" facs="tcp:180789:35"/>
+ACTS, poſſeſſed with a ſpirit of Divi<g ref="char:EOLhyphen"/>nation, which brought her Maſters al<g ref="char:EOLhyphen"/>ſo much Gayne by Sooth-ſaying,<note place="margin">
+                     <hi>Act.</hi> 16.16.</note> be<g ref="char:EOLhyphen"/>fore her diſpoſſeſſion. Whoſe caſe, as it was moſte wofull, whyle ſhee was doing ſo; So is theirs in lyke manner, whyle as ſterving in their Soules, and gayning earthlie thinges to others, they become a prey to that craftie Fiſher, Sa<g ref="char:EOLhyphen"/>tan, and loſe heavenlie thinges, which they ſhould gayne to themſelues.</p>
+               <p n="3">3. Whereas the LORD hath ap<g ref="char:EOLhyphen"/>poynted a bodilie reſt to bee vpon the ſeaventh day, from all ſervile work, for refreſhing of Man, who hath beene la<g ref="char:EOLhyphen"/>bouring the ſixe dayes of the weeke, (as Hee hath lykewyſe pittie, (and willeth vs to haue) on the verie beaſt;) yet cruellie, contrarie to GOD'S ap<g ref="char:EOLhyphen"/>poyntment, the bodies of their Ser<g ref="char:EOLhyphen"/>vantes are toylſomlie wrought and wearied vpon the <hi>LORD'S DAY,</hi> as well as the reſt of the dayes of the weeke; without anie intermiſſion, or ceſſation whatſoever: and ſo are made altogether vnfit, all that Seaſon, for
+<pb n="52" facs="tcp:180789:36"/>
+GOD'S Worſhip, publicke or pri<g ref="char:EOLhyphen"/>vate.</p>
+               <p n="4">4. Thorow the long diſſuetude of reſorte to GOD'S Service, and pro<g ref="char:EOLhyphen"/>phanation of the <hi>LORD'S DAY,</hi> thoſe Servantes of theirs (as wee finde by wofull experience) become altoge<g ref="char:EOLhyphen"/>ther neglectiue of the <hi>LORDS DAY</hi> at all other tymes of the yeare, when Salmond-Fiſhing is not; and can ney<g ref="char:EOLhyphen"/>ther by Admonition nor Diſcipline, be made to halowe the ſame. And ſo being indured thorowe their fore-na<g ref="char:EOLhyphen"/>med cuſtome, they remayne altogether ignorant in mynde, moſt prophane in lyfe, and vtterlie careleſſe of their ſouls, as if they had none at al. Of which induration, ignorance, and prophani<g ref="char:EOLhyphen"/>tie, howe fearfull a thing it is to bee the cauſe, and drawe vpon them ſuch guiltineſſe, let anie ſenſible Chriſtian ſeriouſlie conſider.</p>
+               <p n="5">5. Not onelie are thoſe their Ser<g ref="char:EOLhyphen"/>vantes detayned, by that ſervile em<g ref="char:EOLhyphen"/>ployment, from GOD'S Holie Wor<g ref="char:EOLhyphen"/>ſhip;
+<pb n="53" facs="tcp:180789:36"/>
+but lykewyſe manie others are everie <hi>LORD'S DAY,</hi> of all ſortes of people, with-drawne from the ſame; going thither to bee ſpectators of thoſe Fiſhinges, in the verie tyme of GOD'S publicke Servic, and aſſemblie of His people: and who, in reſpect of their multitude, can not bee gotten curbed. As thoſe, then, are happie, who ſtirre vp people, ſaying, (as DAVID pro<g ref="char:EOLhyphen"/>feſſeth) <hi>Let vs goe vp to the Houſe of the LORD:</hi> and, (as the Diſci<g ref="char:EOLhyphen"/>ples did one the other) who drawe Men to <hi>GOD:</hi>
+                  <note place="margin">Iohn 1.<hi>41.</hi>
+                  </note> So vnhappie maye they juſtlie judge themſelues, vvho giue ſuch an occaſion (for their pri<g ref="char:EOLhyphen"/>vate gayne) of hindering people, and drawing ſo manie from <hi>GOD.</hi>
+               </p>
+               <p n="6">6. What Scandall <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and grie<g ref="char:EOLhyphen"/>vous offence is given to all good Chri<g ref="char:EOLhyphen"/>ſtians, heere, where this prophanation is committed,<note place="margin">
+                     <hi>Ierem.</hi> 9.</note> their querimonies which wee often heare, beare ſufficient wit<g ref="char:EOLhyphen"/>neſſing; and what griefe of heart they giue to vs their Paſtours, as the ſtub<g ref="char:EOLhyphen"/>bornneſſe of the Iewes gaue to their
+<pb n="54" facs="tcp:180789:37"/>
+Prophets, HEE that knoweth the heart can beare vs record: So that with Ieremie, <hi>Wee wiſh our head were waters, and our Eyes a Fountayne of Teares, that wee might weepe day and night for the granſgreſsion of our people.</hi> How-ſo-ever, with open impietie, they joyne not onelie impenitencie, but impudencie, in ſin<g ref="char:EOLhyphen"/>ning.</p>
+               <p n="7">7. A great ſtumbling blocke lyke<g ref="char:EOLhyphen"/>wyſe they are to the weake, who by their example, thinke it no tranſgreſ<g ref="char:EOLhyphen"/>ſion to violate and prophane the <hi>LORD'S DAY</hi> manie wayes, in the Countrey eſpeciallie; and are ſo hardened in their ſinne, that when their Paſtours accuſe or rebuke them for the ſame, and command Abſtinencie, they ſtrayght-way replye, <hi>Let the Salmond Fiſhing bee as well diſcharged then on the Sundaye;</hi> and then they ſhall ceaſe.</p>
+               <p n="8">8. If alſo the Angels rejoyce at the
+<pb n="55" facs="tcp:180789:37"/>
+converſion of a Sinner, howe, then, are they contriſtated, (as it were) and zea<g ref="char:EOLhyphen"/>louſlie incenſed, at ſuch a peart and pub<g ref="char:EOLhyphen"/>licke practiſe of ſinne, in prophaning that Holie Daye of their <hi>LORD'S</hi> Worſhip, whereof by thoſe ſo vn<g ref="char:EOLhyphen"/>gratelie, and ſacrilegiouſlie, Hee is robbed?</p>
+               <p n="9">9. But moſte, and worſt of all; Amongſt other crying ſinnes of the Land, which incenſe the wrath of the <hi>LORD</hi> agaynſt the ſame, this, as one of the greateſt, doeth kindle the Fyre of His indignation, procureth His judgement, and His hand to bee ſtret<g ref="char:EOLhyphen"/>ched out ſtill. For, as Hee for the pro<g ref="char:EOLhyphen"/>phanation of His Sabbath, threatned the Iewes before by His Prophet <hi>IE<g ref="char:EOLhyphen"/>REMIE, That Hee ſhould kindle a Fyre in the gates of their chiefe Citie</hi> Hieruſalem,<note place="margin">
+                     <hi>Ierem.</hi> 17.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>which ſhould conſume the Palaces thereof; and it ſhould not bee quenched.</hi> And, (as good <hi>NEHEMIAH</hi> declared to the Princes of <hi>IVDAH</hi>) ſeeing for
+<pb n="56" facs="tcp:180789:38"/>
+this tranſgreſſion and guiltineſſe, the <hi>LORD</hi> had performed, and put the ſame to execution agaynſt them, in wa<g ref="char:EOLhyphen"/>ſting of their Land, deſtroying of their Citie, and killing and captivating the perſons: All which (as to one mayne cauſe) hee attributeth to the propha<g ref="char:EOLhyphen"/>ning of the <hi>LORD'S SABBATH,</hi> ſaying; <hi>What evill thing is this that yee doe,</hi>
+                  <note place="margin">
+                     <hi>Nehem.</hi> 13.17.</note> 
+                  <hi>and prophane the SAB<g ref="char:EOLhyphen"/>BATH DAY? Did not your Fathers thus? And did not our GOD bring all this evill vpon vs, and vpon this Citie? And yet ye would bring more wrath vpon Iſ<g ref="char:EOLhyphen"/>raell, by prophaning the SABBATH DAYE.</hi> Much more, then, maye Chriſtians,<note place="margin">See Theatre of GOD'S Judgements, Tom, <hi>3.</hi> of the Generall Councils, <hi>2.</hi> part. p. <hi>669.</hi> and Practiſe of Pietie, <hi>368.</hi>
+                  </note> who liue in a cleare Light, and haue no leſſe obligation to ſancti<g ref="char:EOLhyphen"/>fie the <hi>LORD'S DAY,</hi> ex<g ref="char:EOLhyphen"/>pect for the prophanation thereof, tem<g ref="char:EOLhyphen"/>porall puniſhmentes heere, (as ſun<g ref="char:EOLhyphen"/>drie haue found inflicted) and eternall puniſhmentes heere-after, which are moſt juſtlie threatned.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="57" facs="tcp:180789:38"/>
+               <head>
+                  <hi>CHAP. XI.</hi> The <hi>CONCLUSION,</hi> by way of a faythfull Warning from the head of the Watch-Towre, for exone<g ref="char:EOLhyphen"/>ration at leaſt of our owne Soules, whom GOD hath ſet over them, who ſo prophane the LORD'S DAYE.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">A</seg>S Reuben</hi> ſaid therefore to his Brethren,<note place="margin">
+                     <hi>Gen.</hi> 42.2.</note> 
+                  <hi>Did not I fore-warne you, ſaying, Doe not ſinne agaynst the Chylde, and yee would not heare? There<g ref="char:EOLhyphen"/>fore, beholde, his blood is requyred:</hi> So wee may ſaye, whom the <hi>LORD</hi> hath ſet over you, who are guiltie of this Sinne; Haue not wee fore-warned
+<pb n="58" facs="tcp:180789:39"/>
+you, both by word, and nowe by writ, That yee ſinne not agaynſt your owne Soules, and the Soules of others, whom yee impede and with-drawe from the <hi>LORD'S</hi> Worſhip, and Meanes of their Salvation, on the <hi>LORD'S DAY?</hi> And if ye will not heare, (as <hi>IOSEPH'S</hi> Brethren would not <hi>REVBEN'S</hi> adviſe) beholde, aſſuredly, your blood, and the blood of thoſe that periſh tho<g ref="char:EOLhyphen"/>rowe your default, the <hi>LORD</hi> ſhall requyre at your handes.</p>
+               <p>True it is, that wee would often tymes haue taken <hi>IEREMIE'S</hi> Reſolution,<note place="margin">
+                     <hi>Ierem.</hi> 20.9.</note> 
+                  <hi>Not to ſpeake anie more of this ſinne of yours, in the LORD'S Name vnto you;</hi> perceaving ſundrie of you to bee ſo incorrigible; were not that <hi>His Word was within vs, as a burning fyre, ſhut vp in our bones; &amp; we were wearie with forbearing, and could not ſtay;</hi> except wee would haue beene treacherous both to <hi>GOD,</hi> who had entruſted vs; and you, whom we ſhould haue fore-warned.</p>
+               <p>
+                  <pb n="59" facs="tcp:180789:39"/>But ſeeing wee that are <hi>PASTORS,</hi> haue ſo frequentlie ſhotte <hi>IONA<g ref="char:EOLhyphen"/>THAN'S</hi> Arrowes, to fore-warne you to eſcape from the wrath to come, wee are free from your Blood, if yee periſh thorowe your rebellion, and ſhall finde our owne Approbation (wee hope) in the <hi>DAY</hi> of the <hi>LORD.</hi> And if with <hi>SAMVELL</hi> wee can not mende you, wee ſhall moane at leaſt, (as hee did for rebellious <hi>Saul</hi> in <hi>RAMAH</hi>) and mourne for you in ſe<g ref="char:EOLhyphen"/>cret, and, with <hi>IEREMIE,</hi> la<g ref="char:EOLhyphen"/>ment, That <hi>our Mother hath borne vs men of ſtryfe and contention,</hi> with thoſe, for whoſe good wee powre out our verie Soules, in ſecret, before the <hi>LORD,</hi> in our daylie Prayers; That, To the Glorie of HIS NAME, the joye of our Heartes, and Salvation of your Soules, wee may yet ſee the Happie Daye of your Converſion, and Amendement heere-in: That ſo yee may bee, in the daye of our Common Compearance before the LORD, our Crowne, and our joye; and at<g ref="char:EOLhyphen"/>tayne
+<pb n="60" facs="tcp:180789:40"/>
+with vs, to the happie Reſt of that <hi>ETERNALL SAB<g ref="char:EOLhyphen"/>BATH</hi> in the <hi>HEAVENS,</hi> conqueſſed to vs by the Bloode of CHRIST: To Whom bee ever all Prayſe and Glorie.</p>
+            </div>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="epitaph">
+            <pb facs="tcp:180789:40"/>
+            <head>Epitaphium Piſcatoris.</head>
+            <l>HIc recubat dominus vicini gurgitis, auras</l>
+            <l>Dum traheret, dominus no<g ref="char:cmbAbbrStroke">̄</g> tame<g ref="char:cmbAbbrStroke">̄</g> ipſe ſui.</l>
+            <l>Non ſibi ſed ſoboli vixit, labor improbus omnis,</l>
+            <l>Nulla<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> lux vivo festa vel hora fuit.</l>
+            <l>Venturi ſecurus erat, coeli<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> penates</l>
+            <l>Infernaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> domos credidit eſſe pares,</l>
+            <l>Sunt coelo piſces, ſunt orco flumina, praedae</l>
+            <l>Materiem functo ſpondet vter<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> locus.</l>
+            <closer>
+               <signed>Arth. Ionſtonus, M. R.</signed>
+            </closer>
+            <pb facs="tcp:180789:41"/>
+            <pb facs="tcp:180789:41"/>
+            <pb facs="tcp:180789:42"/>
+            <pb facs="tcp:180789:42"/>
+         </div>
+      </back>
+   </text>
+</TEI>
